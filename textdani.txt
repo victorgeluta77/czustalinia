@@ -1,0 +1,54 @@
+ <div class="col-sm-6 wowload fadeInLeft">
+        <h4><img src="mainData/img/logo02_mini.png" alt="клінінг львів"> Про нас</h4>
+        <p class="cz_linia_text">
+          „Чиста Лінія”  є сучасною клінінговою компанією, що впроваджує якісний сервіс за конкурентноспроможними цінами. Ми пропонуємо послуги професійного прибираня житлових приміщень, офісів, торгівельних, розважальних, оздоровчих центрів, закладів та підприємств будь-якого типу.
+        </p>
+      </div>
+      <div class="col-sm-6 wowload fadeInLeft">
+        <h4><img src="mainData/img/logo02_mini.png" alt="клінінг львів"> Ми прибираємо:</h4>
+                    <p class="cz_linia_text cz_linia_text_perehid">
+                      <i class="fa fa-gavel" aria-hidden="true" id = "1"> Кімната/Спальня/Вітальня </i>
+                      <i class="fa fa-umbrella" aria-hidden="true" id = "2"> Коридори/Вхідна зона</i>
+                      <i class="fa fa-university" aria-hidden="true" id = "3"> Кухня</i>
+                      <i class="fa fa-user-secret" aria-hidden="true" id = "4"> Санвузол</i> 
+                      <i class="fa fa-bed" aria-hidden="true" id = "5"> Прибирання офісів</i>
+                      <i class="fa fa-home" aria-hidden="true" id = "6"> Миття вікон, фасадів, вітрин</i>
+                      <i class="fa fa-sign-language" aria-hidden="true" id = "7"> Хімчистка килимів та меблів</i>
+                      </p>
+      </div>
+      <div class="col-sm-6 wowload fadeInRight">
+        <h4><img src="mainData/img/logo05_mini.png" alt="клінінг львів"> Послуги "чистоти"</h4>
+        <p class="cz_linia_text">
+          <a href="mainData/cleaning-after-build.php"><i class="fa fa-gavel" aria-hidden="true"></i>Прибирання після ремонту</a>
+          <a href="mainData/general-cleaning.php"><i class="fa fa-umbrella" aria-hidden="true"></i> Генеральне прибирання </a>
+          <a href="mainData/daily-cleaning.php"><i class="fa fa-university" aria-hidden="true"></i> Щоденне прибирання </a>
+          <a href="mainData/special-work.php"><i class="fa fa-user-secret" aria-hidden="true"></i> Спеціалізовані роботи</a>
+          <!-- <i class="fa fa-bed" aria-hidden="true"></i> Прибирання квартир 
+          <i class="fa fa-home" aria-hidden="true"></i> Прибирання будинку 
+          <i class="fa fa-shower" aria-hidden="true"></i> Миття вікон 
+          <i class="fa fa-handshake-o" aria-hidden="true"></i> Прибирання офісів 
+          <i class="fa fa-sign-language" aria-hidden="true"></i> Хімчистка килимів 
+          <i class="fa fa-thumbs-up" aria-hidden="true"></i> Клінінг  -->
+        </p>
+      </div>
+      <div class="col-sm-6 wowload fadeInLeft">
+        <h4><img src="mainData/img/logo02_mini.png" alt="клінінг львів"> Про нас</h4>
+        <p class="cz_linia_text">
+          „Чиста Лінія”  є сучасною клінінговою компанією, що впроваджує якісний сервіс за конкурентноспроможними цінами. Ми пропонуємо послуги професійного прибираня житлових приміщень, офісів, торгівельних, розважальних, оздоровчих центрів, закладів та підприємств будь-якого типу.
+        </p>
+      </div>
+
+// do with menu . open and close
+      // cz_lin_poslygu.addEventListener('click',function(event){
+//     console.log(event.target.id);
+//     if(event.target.id == 'cz_lin_poslygu' && (cz_lin_poslygu_menu.style.display == 'none' || cz_lin_poslygu_menu.style.display == ''))
+//     {
+//         cz_lin_poslygu_menu.style.display='block';
+//     } else (cz_lin_poslygu_menu.style.display="none");
+// });
+// document.addEventListener('click',function(event){
+//     if(event.target.id == 'cz_lin_about_us' && (cz_lin_about_us_menu.style.display == 'none' || cz_lin_about_us_menu.style.display == ''))
+//     {
+//         cz_lin_about_us_menu.style.display='block';
+//     } else (cz_lin_about_us_menu.style.display="none");
+// });

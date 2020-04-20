@@ -1,0 +1,406 @@
+/* Start Heder Nav Menu */
+.cz_lin_nav_info{
+    /* border: 2px solid yellow; */
+    height: 50px;
+    padding: 5px 5px 5px 5px;
+    /* color:#f71515; */
+    background-color: #f71515;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: 'Goudy Bookletter 1911';
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: stretch;
+    border-bottom: 1px solid #f38c8c;
+}
+.cz_lin_nav_info>p{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.cz_lin_nav_info>p>a{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #f71515;
+    color: #ffffff;
+    text-decoration: none;
+}
+.cz_lin_nav_info>p>a:hover{
+    color: #6e0404;
+}
+
+.header_nav{
+    /* border: 2px solid grey; */
+    padding-bottom: 15px;
+    color:#f71515;
+    background-color: #ffffff;
+}
+.img_logo{
+    /* border: 2px solid yellow; */
+    margin-top: -11px;
+}
+.cz_lin_nav{
+    /* border: 2px solid green; */
+    margin-top: 5px;
+    padding-right: 20px;
+    height: 45px;
+    font-family: 'Goudy Bookletter 1911';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.cz_lin_nav>div{
+    /* border: 2px solid grey; */
+    text-align: center;
+    color: #f71515;
+    margin-left: 5px;
+    width: 120px;
+    height: 20px;
+    cursor: pointer;
+  
+}
+/* .cz_lin_nav>div>a{
+     border: 2px solid rgb(228, 243, 24);
+} */
+.cz_lin_nav>div:hover{
+    color:#6e0404;
+}
+.cz_lin_navig_pages{
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid green; */
+}
+.cz_lin_poslygu{
+    /* height: inherit; */
+    margin-top: 5px;
+    /* border: 2px solid green; */
+}
+.cz_lin_poslygu_menu{
+    /* border: 2px solid rgb(228, 243, 24); */
+    margin-top: 3px;
+    width: 300%;
+    text-align: start;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+    background-color: #ffffff;
+    opacity: 0.7;
+    color: #ffffff;
+    /* border: 2px solid #f71515;
+    border-radius: 5px; */
+    display: none;
+}
+.cz_lin_poslygu_menu>div{
+    margin-top: 10px;
+}
+.cz_lin_poslygu_menu>div:hover{
+    color:#6e0404;
+}
+.cz_lin_about_us_menu{
+    margin-top: 3px;
+    width: 100%;
+    text-align: end;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    background-color: #ffffff;
+    opacity: 0.7;
+    color: #ffffff;
+    /* border: 2px solid #f71515;
+    border-radius: 5px; */
+    display: none;
+}
+.cz_lin_about_us_menu>div{
+    margin-top: 10px;
+}
+.cz_lin_about_us_menu>div:hover{
+    color:#6e0404;
+}
+
+/* End Heder Nav Menu */
+/* Header contact dani */
+.cz_lin_contact_dani{
+    width: 100%;
+    padding-left: 10%;
+    text-align: center;
+}
+/* Header contact dani */
+
+/* Social Icon */
+.cz_linia_social_icon{
+    width: 72px;
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    z-index: 1000;
+}
+.cz_linia_social_icon>a{
+    margin-top: 20px;
+}
+.cz_linia_social_icon>a:hover{
+    transform: scale(1.5);
+    transition: transform 0.25s ease-out 0s;
+    
+}
+/* End Social Icon */
+
+/* Start Czusta linia Partneru */
+.cz_lin_partneru{
+    width: 100%;
+}
+.cz_lin_partneru_dani{
+    margin: 0 20px 0 20px;
+    display: -webkit-flex; 
+    -webkit-flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -webkit-justify-content: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.cz_lin_partneru_img_text{
+    padding: 10px 10px 10px 10px;
+}
+/* End Czusta linia Partneru */
+/* seo text teg strong */
+.cz_lin_seo_text{
+    font-weight: normal;
+}
+/* end seo text teg strong */
+/* text opus poslygu */
+.cz_lin_text_opus{
+    width: 100%;
+    text-align: justify;
+    font-family: 'Cambay', sans-serif;
+}
+.cz_lin_text_list {
+    margin-top: -20px;
+    font-family: 'Cambay', sans-serif;
+    letter-spacing: 0px;
+}
+/* end text opus poslygu */
+/* this class drew line around div  by green color */
+.cz_lin_contact_info{
+    border: 2px solid green;
+}
+/* end the class drew line around div  by green color */
+/*  blog */
+.cz_lin_blog{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+/* end blog */
+@media screen and (max-width: 900px){
+    .img_logo{
+        /* border: 2px solid yellow; */
+        margin-top: 0px;
+    }
+    .cz_lin_nav_info_text{
+                display: none;
+            }
+    .cz_lin_nav{
+        /* border: 2px solid red; */
+        margin-top: 10px;
+        padding-right: 40px;
+        padding-bottom: 20px;
+        height: 54px;
+        padding-top: 14px;
+        color:#f71515;
+        font-weight: 500;
+        font-size: 16px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    .cz_lin_nav>div{
+        /* border: 2px solid grey; */
+        text-align: center;
+        margin-left: 5px;
+        width: 70px;
+        cursor: pointer;
+    }
+    .cz_lin_poslygu{
+        margin-top: 5px;
+    }
+    .cz_lin_navig_pages{
+        margin-top: 0px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .cz_lin_poslygu_menu{
+        /* border: 2px solid rgb(228, 243, 24); */
+        margin-top: 5px;
+        width: 310%;
+        text-align: start;
+        padding-top: 5px;
+        padding-bottom: 10px;
+        padding-left: 8px;
+        background-color: #ffffff;
+        color: #f71515;
+        border: 2px solid #f71515;
+        border-radius: 5px;
+        display: none;
+    }
+
+    .cz_linia_social_icon{
+        width: 72px;
+        position: fixed;
+        left: 20px;
+        bottom: 20px;
+        display: flex;
+        flex-direction: row;
+        z-index: 1000;
+    }
+    .cz_linia_social_icon>a{
+        margin-left: 20px;
+    }
+
+    .process ul li{
+        width: 11em;
+        height: 11em;
+        border: 1px solid #ffffff;
+        padding: 0;
+        border-radius: 50%;
+        margin: 0 1.25em;
+        line-height: 13.5em;
+        color: #f71515;
+    }
+    .cz_linia_text{
+        font-size: 15px;
+        text-align: justify;
+    }
+}
+@media screen and (max-width: 767px){
+
+    .img_logo{
+        /* border: 2px solid yellow; */
+        margin-top: 0px;
+    }
+    .header_nav{
+        padding: 0 0;
+    }
+    .cz_lin_nav_info{
+        /* border: 2px solid yellow; */
+        height: auto;
+        margin: 0 0;
+        padding-top: 5px;
+        background-color: #f71515;
+        color: #ffffff;
+        font-size: 15px;
+        font-weight: 700;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .cz_lin_nav_info>p{
+        margin-bottom: 0px;
+        line-height: 10px;
+        padding: 5px 10px;
+        /* border: 2px solid green; */
+    }
+    .cz_lin_nav_info>p>a{
+        margin: 0 10px 0 0;
+    }
+    .cz_lin_nav_info_text{
+        display: block;
+    }
+    .cz_lin_nav{
+        /* border: 2px solid green; */
+        height: auto;
+        padding-top: 10px;
+        font-weight: 400;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .cz_lin_nav>div{
+        width: 80px;
+        padding-bottom: 10px;
+        text-align: start;
+        
+    }
+    .cz_lin_nav>div:hover{
+        color:#6e0404;
+    }
+    .cz_lin_navig_pages{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+    .cz_lin_poslygu_menu{
+        /* border: 2px solid rgb(228, 243, 24); */
+        margin-top: -30px;
+        margin-left: 100px;
+        width: 270%;
+        text-align: start;
+        padding-top: 5px;
+        padding-bottom: 10px;
+    }
+    .cz_lin_poslygu_menu>div{
+        margin-top: 5px;
+    }
+    .cz_lin_about_us_menu{
+        /* border: 2px solid rgb(228, 243, 24); */
+        margin-top: -70px;
+        margin-left: 100px;
+        width: 270%;
+        text-align: start;
+        padding-top: 5px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        border: 2px solid #f71515;
+        border-radius: 10px;
+    }
+    .cz_lin_about_us_menu>div{
+        margin-top: 5px;
+    }
+
+
+
+
+    .cz_linia_social_icon{
+        width: 72px;
+        position: fixed;
+        left: 10px;
+        bottom: 10px;
+        transform: scale(0.75);
+        display: flex;
+        flex-direction: row;
+        z-index: 1000;
+    }
+    .cz_linia_social_icon>a{
+        margin-left: 15px;
+    }
+
+    .process ul li{
+        width: 10em;
+        height: 10em;
+        border: 1px solid #ffffff;
+        padding: 0;
+        border-radius: 50%;
+        margin: 0 1.25em;
+        line-height: 13.5em;
+        color: #f71515;
+    }
+    .cz_linia_text{
+        font-size: 15px;
+        text-align: justify;
+    }
+ 
+}

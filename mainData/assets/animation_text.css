@@ -1,0 +1,41 @@
+.cz_linia_wrapper {
+    width: 100%;
+    margin-top: 50px;
+    padding-left: 120px;
+    padding-right: 120px;
+    line-height: 1.2;
+    font-size: 30px;
+    color: #f71515;
+
+    /* border: 2px groove green; */
+  }
+  .cz_linia_text{
+      display: none;
+  }
+  .wave {
+    color: #666;
+    animation: 0.5s color infinite;
+  }
+  
+  @keyframes color {
+    50% {
+      color: #f71515;
+    }
+  }
+
+  @media screen and (max-width: 900px){
+    .cz_linia_wrapper{
+        padding-left: 50px;
+        padding-right: 50px;
+        line-height: 1.2;
+        font-size: 25px;
+    }
+  }
+  @media screen and (max-width: 767px){
+    .cz_linia_wrapper{
+        padding-left: 10px;
+        padding-right: 10px;
+        line-height: 1.2;
+        font-size: 15px;
+    }
+  }
