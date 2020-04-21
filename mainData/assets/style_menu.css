@@ -125,14 +125,26 @@
 }
 
 /* End Heder Nav Menu */
-/* Header contact dani */
+/* main contact dani page -contact for work-*/
 .cz_lin_contact_dani{
+    /* border: 2px solid green; */
     width: 100%;
-    padding-left: 10%;
     text-align: center;
 }
-/* Header contact dani */
-
+/* main contact dani */
+/* main page - contact for work - h3 */
+.cz_lin_contact_text{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    /* border: 2px solid green; */
+}
+.cz_lin_contact_text > div{
+    margin-left: 10px;
+}
+/* end main page contact for work - h3 */
 /* Social Icon */
 .cz_linia_social_icon{
     width: 72px;
@@ -250,11 +262,17 @@
         padding-top: 5px;
         padding-bottom: 10px;
         padding-left: 8px;
+        font-weight: 700;
         background-color: #ffffff;
         color: #f71515;
-        border: 2px solid #f71515;
+        /* border: 2px solid #f71515; */
         border-radius: 5px;
         display: none;
+    }
+    .cz_lin_about_us_menu{
+        text-align: end;
+        padding-right: 2px;
+        font-weight: 700;
     }
 
     .cz_linia_social_icon{
@@ -284,6 +302,24 @@
         font-size: 15px;
         text-align: justify;
     }
+    /* page contact-for-work */
+    .cz_lin_contact_text{
+        width: 100%;
+        font-size: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        /* border: 2px solid green; */
+    }
+    .cz_lin_contact_text>div>h3{
+        margin: 0 0 0 0.2em;
+    }
+    .cz_lin_contact_dani{
+        font-size: 18px;
+        font-weight: 600;
+    }
+    /* end page contact-for-work */
 }
 @media screen and (max-width: 767px){
 
@@ -402,5 +438,18 @@
         font-size: 15px;
         text-align: justify;
     }
- 
+    .cz_lin_contact_text{
+        width: 100%;
+        padding-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        /* border: 2px solid green; */
+    }
+    .cz_lin_contact_text>div>h3{
+        font-size: 20px;
+        font-weight: 700;
+        margin: 10px 0 0 0;
+    }
 }

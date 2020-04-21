@@ -52,3 +52,15 @@
 //         cz_lin_about_us_menu.style.display='block';
 //     } else (cz_lin_about_us_menu.style.display="none");
 // });
+page - contact for work -
+  <!--<i class="fa fa-phone-square fa-1x" aria-hidden="true"> Контакти </i>
+      <i class="fa fa-handshake-o fa-1x" aria-hidden="true"> Попереднє замовлення </i>
+      <i class="fa fa-coffee fa-1x" aria-hidden="true"> Консультація </i>
+-->
+
+<h3 class="text-center wowload fadeInUp  cz_lin_contact_dani">
+   <img src="img/logo01_mini.png" alt="прибирання контакти"> Контакти
+   <img src="img/logo02_mini.png" alt="замовити прибиранння"> Попереднє замовлення
+   <img src="img/logo03_mini.png" alt="прибираня кансультація"> Консультація
+  
+  </h3> 

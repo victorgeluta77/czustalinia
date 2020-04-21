@@ -229,15 +229,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- Cirlce Starts -->
 <div id="about"  class="container spacer about">
-<h3 class="text-center wowload fadeInUp cz_lin_contact_dani">
-  <!--<i class="fa fa-phone-square fa-1x" aria-hidden="true"> Контакти </i>
-      <i class="fa fa-handshake-o fa-1x" aria-hidden="true"> Попереднє замовлення </i>
-      <i class="fa fa-coffee fa-1x" aria-hidden="true"> Консультація </i>
--->
-  <img src="img/logo01_mini.png" alt=""> Контакти
-  <img src="img/logo02_mini.png" alt=""> Попереднє замовлення
-  <img src="img/logo03_mini.png" alt=""> Консультація
-  </h3>  
+  <div class="cz_lin_contact_text">
+    <div><h3 class="text-center wowload fadeInUp "><img src="img/logo01_mini.png" alt="прибирання контакти"> Контакти</h3> </div>
+    <div><h3 class="text-center wowload fadeInUp "><img src="img/logo02_mini.png" alt="замовити прибиранння"> Попереднє замовлення</h3> </div>
+    <div><h3 class="text-center wowload fadeInUp "><img src="img/logo03_mini.png" alt="прибираня кансультація"> Консультація</h3> </div>
+  </div>
+    
   <div class="row ">
   <div class="cz_lin_contact_dani">
     <p>
@@ -251,25 +248,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       А також Ви можете зробити попереднє замовлення заповнивши форму:
     </p>
   </div>
-  <!-- <div class="col-sm-6 wowload fadeInRight">
-  <h4><i class="fa fa-code"></i> Frontend & Backend Development</h4>
-  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>    
-  </div> -->
   </div>
 
 
 <div id="contact" class="spacer">
 <!--Contact Starts-->
-<div class="container contactform center">
+<div class="container contactform center cz_lin_contact_dani">
 <h2 class="text-center  wowload fadeInUp">Попереднє замовлення</h2>
   <div class="row wowload fadeInLeftBig">      
-      <div class="col-sm-6 col-sm-offset-3 col-xs-12">      
-        <input type="text" placeholder="Імя">
+      <div class="col-sm-6 col-sm-offset-3 col-xs-12">   
+        <form action="" method="get">
+          <input type="text" placeholder="Імя">
         <input type="text" placeholder="Телефон">
         <input type="email" placeholder="Електронна пошта">
         <textarea rows="5" placeholder="Повідомлення"></textarea>
-        <a href="thankYou.php"><button class="btn btn-primary"><i class="fa fa-paper-plane"></i> Відправити</button></a>
-        
+        <a href="thankYou.php"><button type="submit" class="btn btn-primary">
+          <i class="fa fa-paper-plane"></i> Відправити</button>
+        </a>
+        </form>           
       </div>
   </div>
 

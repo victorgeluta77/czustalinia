@@ -34,6 +34,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="progid" content="Version: 4.33 PRO; Project name: Clining1; Project id: ac75a9f1f2f2007aee844e50af6bc8da; Template Name: pro_17-489-1_red_BusinessTeam_1; Published date: July 6, 2010, 8:37 26 (GMT +03:00">
 
 
+
 <!-- Google fonts -->
 <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
 <link href="https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911&display=swap" rel="stylesheet">
@@ -97,7 +98,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="header_nav">
             <!-- start info for client -->
             <div class="cz_lin_nav_info">
-              <p class="cz_lin_nav_info_text">Замовити Послугу</p>
+              <p class="cz_lin_nav_info_text"><a href="mainData/contact-for-work.php">Замовити Послугу</a></p>
               <p><a href="viber://chat?number=%2B380673701477"><i class="fa fa-phone-square " aria-hidden="true"></i> Viber</a>
               <a href="https://www.messenger.com/t/chystalinia"><i class="fa fa-volume-control-phone " aria-hidden="true"></i> Messenger </a>
               <a href="https://t.me/czystalinia"><i class="fa fa-telegram " aria-hidden="true"></i> Telegram</a></p>                     

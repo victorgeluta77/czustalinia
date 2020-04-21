@@ -75,7 +75,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="header_nav">
             <!-- start info for client -->
             <div class="cz_lin_nav_info">
-              <p class="cz_lin_nav_info_text">Замовити Послугу</p>
+              <p class="cz_lin_nav_info_text"><a href="mainData/contact-for-work.php">Замовити Послугу</a></p>
               <p><a href="viber://chat?number=%2B380673701477"><i class="fa fa-phone-square " aria-hidden="true"></i> Viber</a>
               <a href="https://www.messenger.com/t/chystalinia"><i class="fa fa-volume-control-phone " aria-hidden="true"></i> Messenger </a>
               <a href="https://t.me/czystalinia"><i class="fa fa-telegram " aria-hidden="true"></i> Telegram</a></p>                     
@@ -253,10 +253,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="container contactform center">
     <h2 class="text-center  wowload fadeInUp">Емоції після прибирання!!</h2>
       <div class="row wowload fadeInLeftBig">      
-          <div class="col-sm-6 col-sm-offset-3 col-xs-12">      
-            <input type="text" placeholder="Імя">
-            <textarea rows="5" placeholder="Спокійне джерело емоцій"></textarea>
-            <a href="feedback.php"><button class="btn btn-primary"><i class="fa fa-paper-plane"></i> Відправити</button></a>
+          <div class="col-sm-6 col-sm-offset-3 col-xs-12">    
+            <form action="" method="get">
+              <input type="text" placeholder="Імя">
+              <textarea rows="5" placeholder="Спокійне джерело емоцій"></textarea>
+              <a href="feedback.php">
+                <button type="submit" class="btn btn-primary">
+                  <i class="fa fa-paper-plane"></i> Відправити
+                </button>
+              </a>
+            </form>  
+            
           </div>
       </div>
     
