@@ -183,6 +183,17 @@
 .cz_lin_partneru_img_text{
     padding: 10px 10px 10px 10px;
 }
+.cz_lin_video{
+    margin: 0 20px 0 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.cz_lin_video div{
+    margin-left: 20px;
+    margin-right: 20px;
+}
 /* End Czusta linia Partneru */
 /* seo text teg strong */
 .cz_lin_seo_text{

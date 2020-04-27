@@ -175,6 +175,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
         
        </div>
+
+       <!-- video about our work -->
+       <br>
+       <h4 class="text-center">Наша робота офлайн</h4> 
+    <div class="cz_lin_video"> 
+        <div>
+          <video controls width="350px">
+            <source src="video/video_2.mp4" type="video/mp4">
+          </video>
+        </div> 
+        <div>
+        <video controls width="350px">
+            <source src="video/video_03.mp4" type="video/mp4">
+          </video>
+        </div>
+        
+        
+       </div>
     </div>
 </div>
 <!-- End Czusta Linia Partneru -->
