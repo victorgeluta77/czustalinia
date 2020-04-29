@@ -93,7 +93,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!-- Header Starts -->
     <div class="navbar-wrapper">
       <div class="container cz_lin_container">
-        
         <div class="navbar navbar-default navbar-fixed-top" role="navigation" id="top-nav">
           <div class="header_nav">
             <!-- start info for client -->
@@ -110,17 +109,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               <!-- Logo Starts -->
               <a class="navbar-brand" href="index.php"><img class="img_logo" src="mainData/img/logo.png" alt="logo"></a>
               <!-- #Logo Ends -->
-<!-- Block menu which work with menu on the  mobile version -->
-<!-- class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" -->
+              <!-- Block menu which work with menu on the  mobile version -->
+              <!-- class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" -->
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" >
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-<!-- End Block menu which work with menu on the  mobile version-->
+              <!-- End Block menu which work with menu on the  mobile version-->
             </div>
-
 
             <!-- Nav Starts -->
             <div class="navbar-collapse  collapse">
@@ -145,11 +143,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                       <div><a href="mainData/price.php">Ціни</a></div>
                   </div>
                 </div>
-
-                <!-- <div class="cz_lin_poslygu_menu" id="cz_lin_poslygu_menu"> Про Нас
-                  <div class="cz_lin_navig_pages"> <a href="mainData/contact-for-work.php">Контакти</a> </div>
-                </div> -->
-                
               </div>
             </div>
             <!-- #Nav Ends -->
@@ -161,9 +154,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 <!-- #Header Starts -->
 
-
-
-
 <div id="home">
 <!-- Slider Starts -->
 <div id="myCarousel" class="carousel slide banner-slider animated flipInX" data-ride="carousel">     
@@ -174,8 +164,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-            		<!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-              		
               		<!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
                   <div class="scroll animated fadeInUp"> <a href="contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
                   <!-- <h1 class="animated bounceInLeft">ПРИБИРАННЯ ПІСЛЯ РЕМОНТУ</h1> -->
@@ -242,8 +230,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- #Slider Ends -->
 </div>
 
-
-
 <!-- Social Icon -->
 <div id="cz_linia_social_icon" class="cz_linia_social_icon">
     <a href="viber://chat?number=%2B380673701477"><img src="mainData/img/icon_social_72dpi_71x71_png/viber.png" alt="Чиста лінія вайбер"> </a>
@@ -252,10 +238,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <a href="https://www.messenger.com/t/chystalinia"><img src="mainData/img/icon_social_72dpi_71x71_png/messenger.png" alt="Чиста лінія месенжер"> </a>
 </div>
 <!-- End Social Icon -->
-
-
-
-
 
 <!-- Cirlce Starts -->
 <div id="about"  class="container spacer about">
