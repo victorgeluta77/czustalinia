@@ -195,6 +195,18 @@
     margin-right: 20px;
 }
 /* End Czusta linia Partneru */
+/* Price */
+.cz_lin_price{
+    /* border: 2px solid green; */
+    margin-top: 50px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+/* end Price */
 /* seo text teg strong */
 .cz_lin_seo_text{
     font-weight: normal;

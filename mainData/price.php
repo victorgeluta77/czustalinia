@@ -5,7 +5,7 @@
 <meta charset="UTF-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title> Служба прибирання Львів| Чиста Лінія</title>
+<title> Клінінг Львів| Чиста Лінія</title>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-150392560-1"></script>
 <script>
@@ -23,12 +23,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-W2XC96C');</script>
 <!-- End Google Tag Manager -->
-
 <meta http-equiv="Page-Enter" content="revealTrans(Duration=1,Transition=1)">
-<meta name="description" content=" Прибирання квартир Чиста Лінія ☎ +38(067)-3701492 : професійне прибирання Львів, миття вікон та фасадів, миття вікон =.">
-<meta name="keywords" content=" уборка помещений Львов, служба прибирання Львів ">
-<meta property="og:title" content="Сzysta-linia | Служба прибирання Львів ">
-<meta property="og:description" content=" Служба прибирання Львів: замовляйте послуги прибирання у професіоналів +38-(067)-370-14-92">
+<meta name="description" content=" Прибирання квартир Чиста Лінія ☎ +38(067)-3701492 : професійне прибирання Львів, прибирання офісних приміщень Львів, миття вікон =.">
+<meta name="keywords" content=" уборка помещений Львов, щоденне прибирання офісів">
+<meta property="og:title" content="Сzysta-linia | Щоденне прибирання офісів">
+<meta property="og:description" content=" Щоденне прибирання офісів: замовляйте послуги прибирання у професіоналів +38-(067)-370-14-92">
 <meta property="og:url" content="https://www.czysta-linia.com">
 <meta name="generator" content="Rvglobalsoft">
 <meta name="progid" content="Version: 4.33 PRO; Project name: Clining1; Project id: ac75a9f1f2f2007aee844e50af6bc8da; Template Name: pro_17-489-1_red_BusinessTeam_1; Published date: July 6, 2010, 8:37 25 (GMT +03:00">
@@ -133,91 +132,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 <!-- #Header Starts -->
 
-
-
-
-<div id="home">
-<!-- Slider Starts -->
-<div id="myCarousel" class="carousel slide banner-slider animated flipInX" data-ride="carousel">     
-      <div class="carousel-inner">
-        <!-- Item 1 -->
-        <div class="item active">
-          <img src="img/back4.jpg" alt="banner">          
-             <div class="carousel-caption">
-            	<div class="caption-wrapper">
-            		<div class="caption-info">
-                <!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-                  
-                  <!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
-                  <div class="scroll animated fadeInUp"><a href="contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o "></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">СПЕЦІАЛЬНІ РОБОТИ</h1>   -->
-                </div>
-                </div>
-            </div>
-        </div>
-        <!-- #Item 1 -->
-          <!-- Item 1 -->
-        <div class="item">
-          <img src="img/back3.jpg" alt="banner">          
-             <div class="carousel-caption">
-            	<div class="caption-wrapper">
-            		<div class="caption-info">
-                <!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-                  
-                  <!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
-                  <div class="scroll animated fadeInUp"><a href="contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">ЩОДЕННЕ ПРИБИРАННЯ</h1>   -->
-                </div>
-                </div>
-            </div>
-        </div>
-        <!-- #Item 1 -->
-        <!-- Item 1 -->
-        <div class="item ">
-          <img src="img/back1.jpg" alt="banner">          
-            <div class="carousel-caption">
-            	<div class="caption-wrapper">
-            		<div class="caption-info">
-            		<!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-              		
-              		<!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
-              		<div class="scroll animated fadeInUp"> <a href="contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">ПРИБИРАННЯ ПІСЛЯ РЕМОНТУ</h1>   -->
-                </div>
-              	</div>
-            </div>
-        </div>
-        <!-- #Item 1 -->
-
-        <!-- Item 1 -->
-        <div class="item">
-          <img src="img/back2.jpg" alt="banner">          
-             <div class="carousel-caption">
-            	<div class="caption-wrapper">
-            		<div class="caption-info">
-                <!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-                  
-                  <!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
-                  <div class="scroll animated fadeInUp"> <a href="contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">ГЕНЕРАЛЬНЕ ПРИБИРАННЯ</h1>   -->
-                </div>
-                </div>
-            </div>
-        </div>
-        <!-- #Item 1 -->
-
-        
-
-        
-      </div>
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon-chevron-left"></span></a>
-      <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon-chevron-right"></span></a>
-    </div>
-<!-- #Slider Ends -->
-</div>
-
-
-
+<!--  Social Icon for  communication with customer -->
 <div id="cz_linia_social_icon" class="cz_linia_social_icon">
     <a href="viber://chat?number=%2B380673701477"><img src="img/icon_social_72dpi_71x71_png/viber.png" alt="Чиста лінія вайбер"> </a>
     <a href="https://www.instagram.com/czysta.linia/?r=nametag"><img src="img/icon_social_72dpi_71x71_png/instargam.png" alt="Чиста лінія інстаграм"> </a>
@@ -225,28 +140,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <a href="https://www.messenger.com/t/chystalinia"><img src="img/icon_social_72dpi_71x71_png/messenger.png" alt="Чиста лінія месенжер"> </a>
 </div>
 
+<!--  end section Social Icon -->
+
+<!-- place for slider -->
+<div id="home">
+
+</div>
+<!-- end place for slider -->
 
 
+<!-- Start Czusta Price -->
+<div class="cz_lin_price">
+  <h1 class="text-center">Чиста лінія ціни.</h1> 
+    <div class="cz_lin_price_pslugu">
+      <div>
 
+      </div>
+      <div>
+          
+      </div>
+    </div>
+
+</div>
+<!-- End Czusta Linia Price -->
 
 <!-- Cirlce Starts -->
 <div id="about"  class="container spacer about">
-  <h2 class="text-center wowload fadeInUp">Спеціальні роботи</h2>  
-    <div class="row">
-    <div class="col-sm-6 wowload fadeInLeft">
-      <h4><img src="img/logo03_mini.png" alt="Спеціальні роботи львів"> Cпеціалізовані роботи</h4>
-      <p><i class="fa fa-gavel" aria-hidden="true"></i>Висотне чищення та миття вертикальних поверхонь <i class="fa fa-umbrella" aria-hidden="true"></i> Натирання і догляд за нержавіючими елементами інтер'єру 
-        <i class="fa fa-university" aria-hidden="true"></i> Хімчистка килимових підлогових покриттів <i class="fa fa-user-secret" aria-hidden="true"></i> Хімчистка текстильних поверхонь (м'які меблі, салони автомобілів)
-      </div>
-    <div class="col-sm-6 wowload fadeInRight">
-      
-    <h4><img src="img/logo04_mini.png" alt="Спеціальні роботи львів"> та послуги </h4>
-    <p><i class="fa fa-gavel" aria-hidden="true"></i>Догляд за твердими поверхнями (мармурові, гранітні підлоги, кристалізація і поліровка каменя, нанесення захисних покриттів на підлогові поверхні)<i class="fa fa-umbrella" aria-hidden="true"></i> Дезинфікуюче чищення басейнів, саун, стічних труб і проходів
-      <i class="fa fa-university" aria-hidden="true"></i> Виведення плям та жуйок з будь-яких поверхонь <i class="fa fa-user-secret" aria-hidden="true"></i> Висотне миття фасадного скла та плитки проводиться на підставі попередньої домовленості із замовником.
-
-    </div>
-    </div>
-  
     <div class="process">
     <h3 class="text-center wowload fadeInUp">Секрет чистої оселі</h3>
     <ul class="row text-center list-inline  wowload bounceInUp">
@@ -274,88 +193,87 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!-- works -->
   <div id="works"  class=" clearfix grid"> 
       <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/spesial_clean/big window1.jpg" alt="прибирання квартир львів робота"/>
+          <img src="img/portfolio/bath 2.jpg" alt="img01"/>
           <figcaption>
-              <h2>Висота</h2>
+              <h2>Ванна</h2>
               <!-- <p>Lily likes to play with crayons and pencils<br> -->
-              <p><a href="img/spesial_clean/big window1.jpg" title="Вікна високі та габаритні" data-gallery>детальніше</a></p>            
+              <p><a href="img/portfolio/bath 2.jpg" title="Ванна кімната,санвузол" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/spesial_clean/ceiling1.jpg" alt="прибирання будинків львів"/>
+          <img src="img/portfolio/cafe.jpg" alt="img01"/>
           <figcaption>
-              <h2>Меблі</h2>
+              <h2>Кафе</h2>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/spesial_clean/ceiling1.jpg" title="Офісні меблі" data-gallery>детальніше</a></p>            
+              <a href="img/portfolio/cafe.jpg" title="Кавярня,піцерія,ресторан" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/spesial_clean/door glass 2.jpg" alt="клининговая уборка квартир"/>
+          <img src="img/portfolio/big window1.jpg" alt="img01"/>
+          <figcaption>
+              <h2>Вікно</h2>
+              <p>
+                <!-- Lily likes to play with crayons and pencils<br> -->
+              <a href="img/portfolio/big window1.jpg" title="Вікна великих розмірів" data-gallery>детальніше</a></p>            
+          </figcaption>
+      </figure>
+       <figure class="effect-oscar  wowload fadeInUp">
+          <img src="img/portfolio/door glass 1.jpg" alt="img01"/>
           <figcaption>
               <h2>Двері</h2>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/spesial_clean/door glass 2.jpg" title="Зовнішні двері великих розмірів" data-gallery>детальніше</a></p>            
+              <a href="img/portfolio/door glass 1.jpg" title="Зовнішні двері" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/spesial_clean/door2.jpg" alt="генеральне прибирання квартир"/>
+          <img src="img/portfolio/glass 2.jpg" alt="img01"/>
           <figcaption>
-              <h2>Скло</h2>
+              <h2>Дзеркало</h2>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/spesial_clean/door2.jpg" title="Склянні поверхні" data-gallery>детальніше</a></p>            
-          </figcaption>
-      </figure>
-       <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/spesial_clean/kitchen 1.jpg" alt="клінінгові послуги львів"/>
-          <figcaption>
-              <h2>Кухня</h2>
-              <p>
-                <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/spesial_clean/kitchen 1.jpg" title="Складні поверхні" data-gallery>детальніше</a></p>            
+              <a href="img/portfolio/glass 2.jpg" title="дзеркала" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
        
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/spesial_clean/shop2.jpg" alt="миття квартир після ремонту"/>
+          <img src="img/portfolio/kitchen 2.jpg" alt="img01"/>
           <figcaption>
-              <h2>Стеля</h2>
+              <h2>Кухня</h2>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/spesial_clean/shop2.jpg" title="Високі стелі" data-gallery>детальніше</a></p>            
+              <a href="img/portfolio/kitchen 2.jpg" title="Кухня" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
       <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/spesial_clean/vitrunaa.jpg" alt="прибирання котеджів львів"/>
+          <img src="img/portfolio/trading room.jpg" alt="img01"/>
           <figcaption>
-              <h2>Вітрина</h2>
+              <h2>Склад</h2>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/spesial_clean/vitrunaa.jpg" title="Вітрини" data-gallery>детальніше</a></p>            
+              <a href="img/portfolio/trading room.jpg" title="Магазин,торгівельний зал,show room,склад" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
       <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/spesial_clean/wndow2.jpg" alt="ремонт квартир львів ціни"/>
+          <img src="img/portfolio/stairs3.jpg" alt="img01"/>
           <figcaption>
-              <h2>Вікна</h2>
+              <h2>Сходи</h2>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/spesial_clean/wndow2.jpg" title="Вікна та висотні обєкти" data-gallery>детальніше</a></p>            
+              <a href="img/portfolio/stairs3.jpg" title="Сходи,перила" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
   
        
   </div>
-  <!-- works -->
-  
-  
-  
-  <!-- Footer Starts -->
-  <div class="footer text-center spacer">
-    <p class="wowload flipInX "><a href="#" ><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-telegram fa-2x" aria-hidden="true" ></i></a> <a href="#"><i class="fa fa-instagram fa-2x"></i></a> <a href="#"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a><a href=""><i class="fa fa-youtube fa-2x" aria-hidden="true"></i> </a></p>
-    SEO Front-end : victorgeluta@gmail.com - LinkedIn - Viktor Heliuta
+
+
+
+<!-- Footer Starts -->
+<div class="footer text-center spacer">
+  <p class="wowload flipInX "><a href="#" ><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-telegram fa-2x" aria-hidden="true" ></i></a> <a href="#"><i class="fa fa-instagram fa-2x"></i></a> <a href="#"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a><a href=""><i class="fa fa-youtube fa-2x" aria-hidden="true"></i> </a></p>
+  SEO Front-end : victorgeluta@gmail.com - LinkedIn - Viktor Heliuta
   <!-- Copyright <script type='text/javascript'>var mdate = new Date();document.write(mdate.getFullYear());</script> Creative Studio. All rights reserved. -->
   </div>
   <div style="position:absolute;left:-3072px;top:0"><div class="width=100% height=100% align-left"></div><div class="align-left" width="1"></div><a href="&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#108;&#105;&#110;&#105;&#121;&#97;&#111;&#107;&#111;&#110;&#46;&#114;&#117;">&#1086;&#1082;&#1085;&#1072;</a> <!-- div --><!-- div end --> <a href="&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#101;&#109;&#105;&#117;&#109;&#107;&#97;&#100;&#114;&#46;&#114;&#117;">&#1092;&#1086;&#1090;&#1086;&#1075;&#1088;&#1072;&#1092;</a> <!-- div --><!-- div end --> <a href="&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#117;&#110;&#105;&#115;&#104;&#97;&#98;&#108;&#111;&#110;.&#99;&#111;&#109;">html php</a> <a href="&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#114;&#105;&#116;&#117;&#97;&#108;&#103;&#97;&#114;&#97;&#110;&#116;&#46;&#114;&#117;">&#1087;&#1072;&#1084;&#1103;&#1090;&#1085;&#1080;&#1082;&#1080;</a> <a href="&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#116;&#117;&#116;&#108;&#111;&#118;&#101;&#46;&#114;&#117;">&#1079;&#1085;&#1072;&#1082;&#1086;&#1084;&#1089;&#1090;&#1074;&#1072;</a></div>
