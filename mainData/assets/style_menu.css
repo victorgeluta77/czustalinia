@@ -304,7 +304,7 @@
     }
 
     .cz_linia_social_icon{
-        width: 72px;
+        width: auto;
         position: fixed;
         left: 20px;
         bottom: 20px;
@@ -315,6 +315,10 @@
     .cz_linia_social_icon>a{
         margin-left: 20px;
     }
+    .cz_linia_social_icon>div{
+        padding-top: 20px;
+    }
+
 
     .process ul li{
         width: 11em;
@@ -450,6 +454,15 @@
     }
     .cz_linia_social_icon>a{
         margin-left: 15px;
+    }
+    .cz_linia_social_icon>a>img{
+        width: 60px;
+    }
+    .cz_linia_social_icon>div{
+        padding-top: 20px;
+    }
+    .cz_linia_social_icon>div>img{
+        width: 60px;
     }
 
     .process ul li{
