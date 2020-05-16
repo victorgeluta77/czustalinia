@@ -136,6 +136,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!--  Social Icon for  communication with customer -->
 <div id="cz_linia_social_icon" class="cz_linia_social_icon">
+<div class="cz_linia_call_me"><img src="mainData/img/icon_social_72dpi_71x71_png/phone.png" alt="Чиста лінія передзвоніть мені"></div>
     <a href="viber://chat?number=%2B380673701477"><img src="img/icon_social_72dpi_71x71_png/viber.png" alt="Чиста лінія вайбер"> </a>
     <a href="https://www.instagram.com/czysta.linia/?r=nametag"><img src="img/icon_social_72dpi_71x71_png/instargam.png" alt="Чиста лінія інстаграм"> </a>
     <a href="https://t.me/czystalinia"><img src="img/icon_social_72dpi_71x71_png/telegram.png" alt="Чиста лінія телеграм"></a>
