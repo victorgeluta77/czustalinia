@@ -6,14 +6,39 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title> Генеральне прибирання Львів| Чиста Лінія</title>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150392560-1"></script>
+<script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script>
+<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-927284132&amp;l=dataLayer&amp;cx=c"></script>
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
+<script src="https://connect.facebook.net/signals/config/421001995008261?v=2.9.18&amp;r=stable" async=""></script>
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W2XC96C"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-150392560-1"></script>
 <script>
+  
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'UA-150392560-1');
+//   Тег  Google Ads for conversion
+  gtag('config', 'AW-927284132');
+
 </script>
+<!-- Event snippet for Просмотр страницы Чиста лінія conversion page -->
+<script> 
+  gtag('event', 'conversion', {'send_to': 'AW-927284132/g_F1CPO7rMoBEKT3lLoD'});
+</script>
+<!-- Global site tag (gtag.js) - Google Ads: 927284132 -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-927284132"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-927284132');
+</script>
+
+
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -24,7 +49,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta http-equiv="Page-Enter" content="revealTrans(Duration=1,Transition=1)">
 <meta name="description" content=" Генеральне прибирання Чиста Лінія ☎ +38(067)-3701492 : прибирання котеджів Львів, прибирання Винники, щоденне прибирання офісів, генеральне прибирання Львів =.">
-<meta name="keywords" content=" клининговая компания Львов, клининг Львов, компания по уборке помещений, клининговые услуги Львов ">
 <meta property="og:title" content="Сzysta-linia | Генеральне прибирання Львів ">
 <meta property="og:description" content=" Генеральне прибирання Львів: замовляйте послуги прибирання у професіоналів +38-(067)-370-14-92">
 <meta property="og:url" content="https://www.czysta-linia.com">

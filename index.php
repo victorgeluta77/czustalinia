@@ -7,14 +7,38 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <title>Клінінг львів | Прибирання квартир та офісів | Чиста Лінія</title>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150392560-1"></script>
+<script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script>
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
+<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-927284132&amp;l=dataLayer&amp;cx=c"></script>
+<script src="https://connect.facebook.net/signals/config/421001995008261?v=2.9.18&amp;r=stable" async=""></script>
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W2XC96C"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-150392560-1"></script>
 <script>
+  
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'UA-150392560-1');
+//   Тег  Google Ads for conversion
+  gtag('config', 'AW-927284132');
+
 </script>
+<!-- Event snippet for Просмотр страницы Чиста лінія conversion page -->
+<script> 
+  gtag('event', 'conversion', {'send_to': 'AW-927284132/g_F1CPO7rMoBEKT3lLoD'});
+</script>
+<!-- Global site tag (gtag.js) - Google Ads: 927284132 -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-927284132"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-927284132');
+</script>
+
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -26,7 +50,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <meta http-equiv="Page-Enter" content="revealTrans(Duration=1,Transition=1)">
 <meta name="description" content="Клінінгове агенство Чиста Лінія ☎ +38-(067)-370-14-92  прибирання квартир, прибирання  офісів, прибирання котеджів, прибирання після ремонту, генеральне прибирання, клінінгове агенство Львів, миття вікон та фасадів.">
-<meta name="keywords" content="Уборка помещений Львов,Прибирання квартир Львів,Клининг Львов">
 <meta property="og:title" content="Сzysta-linia | Клінінг Львів">
 <meta property="og:description" content="Клінінгове агенство Львів: замовляйте послуги прибирання у професіоналів +38-(067)-370-14-92">
 <meta property="og:url" content="https://www.czysta-linia.com">
