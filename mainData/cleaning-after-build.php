@@ -48,7 +48,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-W2XC96C');</script>
 <!-- End Google Tag Manager -->
 <meta http-equiv="Page-Enter" content="revealTrans(Duration=1,Transition=1)">
-<meta name="description" content="Клінінгове агенство &quot;Чиста Лінія&quot;: прибирання після ремонту Львів, клінінг після ремонту Львів, миття квартир після ремонту =+38-(067)-370-14-92 .">
+<meta name="description" content="Клінінгове агенство &quot;Чиста Лінія&quot;: прибирання після ремонту Львів, клінінг після ремонту Львів, миття квартир після ремонту =+38-(067)-370-14-92.">
 <meta property="og:title" content="Сzysta-linia | Прибирання після ремонту Львів">
 <meta property="og:description" content="Клінінг після ремонту Львів: замовляйте послуги прибирання у професіоналів +38-(067)-370-14-92">
 <meta property="og:url" content="https://www.czysta-linia.com">

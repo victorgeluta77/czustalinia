@@ -49,7 +49,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 <meta http-equiv="Page-Enter" content="revealTrans(Duration=1,Transition=1)">
-<meta name="description" content=" Прибирання будинку Чиста Лінія ☎ +38(067)-3701492 : прибирання на дому львів, прибираня, професійне обладнання для прибирання.">
+<meta name="description" content="Прибирання будинку Чиста Лінія ☎ +38(067)-3701492 : прибирання на дому львів, прибираня, професійне обладнання для прибирання.">
 <meta property="og:title" content="Сzysta-linia | Послуги прибирання">
 <meta property="og:description" content=" Прибирання після будівельників: замовляйте послуги прибирання у професіоналів +38-(067)-370-14-92">
 <meta property="og:url" content="https://www.czysta-linia.com">

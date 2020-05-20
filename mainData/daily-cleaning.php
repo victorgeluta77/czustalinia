@@ -48,7 +48,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-W2XC96C');</script>
 <!-- End Google Tag Manager -->
 <meta http-equiv="Page-Enter" content="revealTrans(Duration=1,Transition=1)">
-<meta name="description" content=" Прибирання квартир Чиста Лінія ☎ +38(067)-3701492 : прибирання будинку ціна, прибирання особняків ціна, клінінгові послуги Львів, прибирання офісів Львів, прибирання офісних приміщень Львів= ">
+<meta name="description" content="Прибирання квартир Чиста Лінія ☎ +38(067)-3701492 : прибирання будинку ціна, прибирання особняків ціна, клінінгові послуги Львів, прибирання офісів Львів, прибирання офісних приміщень Львів.">
 <meta property="og:title" content="Сzysta-linia | Клінінгові послуги Львів, щоденне прибирання">
 <meta property="og:description" content=" Генеральне прибирання Львів: замовляйте послуги прибирання у професіоналів +38-(067)-370-14-92">
 <meta property="og:url" content="https://www.czysta-linia.com">

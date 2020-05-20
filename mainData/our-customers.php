@@ -48,9 +48,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-W2XC96C');</script>
 <!-- End Google Tag Manager -->
 <meta http-equiv="Page-Enter" content="revealTrans(Duration=1,Transition=1)">
-<meta name="description" content=" Прибирання квартир Чиста Лінія ☎ +38(067)-3701492 : професійне прибирання Львів, прибирання офісних приміщень Львів, миття вікон =.">
+<meta name="description" content="Прибирання квартир Чиста Лінія ☎ +38(067)-3701492 : професійне прибирання Львів, прибирання офісних приміщень Львів, миття вікон.">
 <meta property="og:title" content="Сzysta-linia | Щоденне прибирання офісів">
-<meta property="og:description" content=" Щоденне прибирання офісів: замовляйте послуги прибирання у професіоналів +38-(067)-370-14-92">
+<meta property="og:description" content="Щоденне прибирання офісів: замовляйте послуги прибирання у професіоналів +38-(067)-370-14-92">
 <meta property="og:url" content="https://www.czysta-linia.com">
 <meta name="generator" content="Rvglobalsoft">
 <meta name="progid" content="Version: 4.33 PRO; Project name: Clining1; Project id: ac75a9f1f2f2007aee844e50af6bc8da; Template Name: pro_17-489-1_red_BusinessTeam_1; Published date: July 6, 2010, 8:37 25 (GMT +03:00">

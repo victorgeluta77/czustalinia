@@ -48,7 +48,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta http-equiv="Page-Enter" content="revealTrans(Duration=1,Transition=1)">
-<meta name="description" content=" Генеральне прибирання Чиста Лінія ☎ +38(067)-3701492 : прибирання котеджів Львів, прибирання Винники, щоденне прибирання офісів, генеральне прибирання Львів =.">
+<meta name="description" content="Генеральне прибирання Чиста Лінія ☎ +38(067)-3701492 : прибирання котеджів Львів, прибирання Винники, щоденне прибирання офісів, генеральне прибирання Львів.">
 <meta property="og:title" content="Сzysta-linia | Генеральне прибирання Львів ">
 <meta property="og:description" content=" Генеральне прибирання Львів: замовляйте послуги прибирання у професіоналів +38-(067)-370-14-92">
 <meta property="og:url" content="https://www.czysta-linia.com">

@@ -164,9 +164,40 @@
     
 }
 .cz_linia_social_icon>div:hover{
+    cursor: pointer;
     transform: scale(1.5);
     transition: transform 0.25s ease-out 0s;
     
+}
+.cz_linia_call_me{
+    position: relative;
+}
+.cz_lin_call_form{
+    position: absolute;
+    left: 50px;
+    top: -50px;
+    width: 300px;
+    height: 70px;
+    padding: 10px 10px;
+    border: 2px solid #f71515;
+    border-radius: 10px;
+}
+.cz_lin_call_form_elem>input{
+    width: 100%;
+    padding-left: 10px;
+    margin-bottom: 4px;
+    border: 1px solid #f71515;
+    border-radius: 3px;
+    text-align: center;
+}
+.cz_lin_call_form_elem>button{
+    width: 100%;
+    color: #ffffff;
+    background-color: #f71515;
+    border: none;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 /* End Social Icon */
 
@@ -318,7 +349,12 @@
     .cz_linia_social_icon>div{
         padding-top: 20px;
     }
-
+    .cz_lin_call_form{
+        position: absolute;
+        top: -50px;
+        left: 10px;
+        width: 250px;
+    }
 
     .process ul li{
         width: 11em;
@@ -463,6 +499,12 @@
     }
     .cz_linia_social_icon>div>img{
         width: 60px;
+    }
+    .cz_lin_call_form{
+        position: absolute;
+        top: -50px;
+        left: 10px;
+        width: 250px;
     }
 
     .process ul li{
