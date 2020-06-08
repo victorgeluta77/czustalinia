@@ -147,6 +147,7 @@
 /* end main page contact for work - h3 */
 /* Social Icon */
 .cz_linia_social_icon{
+    position: relative;
     width: 72px;
     position: fixed;
     left: 20px;
@@ -159,23 +160,26 @@
     margin-top: 20px;
 }
 .cz_linia_social_icon>a:hover{
-    transform: scale(1.5);
+    transform: scale(1.25);
     transition: transform 0.25s ease-out 0s;
     
 }
-.cz_linia_social_icon>div:hover{
+.cz_linia_call_me:hover{
     cursor: pointer;
-    transform: scale(1.5);
+    transform: scale(1.25);
     transition: transform 0.25s ease-out 0s;
     
-}
-.cz_linia_call_me{
-    position: relative;
 }
 .cz_lin_call_form{
+    cursor: pointer;
+}
+/* .cz_linia_call_me{
+    position: relative;
+} */
+.cz_lin_call_form{
     position: absolute;
-    left: 50px;
-    top: -50px;
+    left: 20px;
+    top: -80px;
     width: 300px;
     height: 70px;
     padding: 10px 10px;
@@ -188,7 +192,7 @@
     margin-bottom: 4px;
     border: 1px solid #f71515;
     border-radius: 3px;
-    text-align: center;
+    text-align: left;
 }
 .cz_lin_call_form_elem>button{
     width: 100%;
@@ -346,12 +350,12 @@
     .cz_linia_social_icon>a{
         margin-left: 20px;
     }
-    .cz_linia_social_icon>div{
+    .cz_linia_call_me{
         padding-top: 20px;
     }
     .cz_lin_call_form{
         position: absolute;
-        top: -50px;
+        top: -60px;
         left: 10px;
         width: 250px;
     }
@@ -474,10 +478,6 @@
     .cz_lin_about_us_menu>div{
         margin-top: 5px;
     }
-
-
-
-
     .cz_linia_social_icon{
         width: 72px;
         position: fixed;
@@ -494,7 +494,7 @@
     .cz_linia_social_icon>a>img{
         width: 60px;
     }
-    .cz_linia_social_icon>div{
+    .cz_linia_call_me{
         padding-top: 20px;
     }
     .cz_linia_social_icon>div>img{
@@ -502,7 +502,7 @@
     }
     .cz_lin_call_form{
         position: absolute;
-        top: -50px;
+        top: -60px;
         left: 10px;
         width: 250px;
     }

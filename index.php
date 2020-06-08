@@ -613,7 +613,17 @@ SEO Front-end : victorgeluta@gmail.com - LinkedIn - Viktor Heliuta
 <script src="mainData/assets/script.js"></script>
 <script src="mainData/assets/script_menu.js"></script>
 <script src="mainData/assets/scriptInfoClean.js"></script>
+
+<!-- emailJS -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.3.2/dist/email.min.js"></script>
+    <script type="text/javascript">
+      (function(){
+          emailjs.init("user_0sk1WQsiBBRpCg7ZBYZl0");
+      })();
+    </script>
+<!-- end emailJs -->
 <script src="mainData/assets/callMe.js"></script>
+<script src="mainData/assets/sendEmail.js"></script>
 
 </body>
 </html>
