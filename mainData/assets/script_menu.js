@@ -1,6 +1,6 @@
 // make menu for a section "Pruburannja"
 cz_lin_poslygu.addEventListener('mouseenter',function(event){
-    console.log(event.target.id);
+    // console.log(event.target.id);
     if(event.target.id == 'cz_lin_poslygu' && (cz_lin_poslygu_menu.style.display == 'none' || cz_lin_poslygu_menu.style.display == ''))
     {
         cz_lin_poslygu_menu.style.display='block';

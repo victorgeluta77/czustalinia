@@ -281,14 +281,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h2 class="text-center  wowload fadeInUp">Попереднє замовлення</h2>
   <div class="row wowload fadeInLeftBig">      
       <div class="col-sm-6 col-sm-offset-3 col-xs-12">   
-        <form action="" method="get">
-          <input type="text" placeholder="Імя">
-        <input type="text" placeholder="Телефон">
-        <input type="email" placeholder="Електронна пошта">
-        <textarea rows="5" placeholder="Повідомлення"></textarea>
-        <a href="thankYou.php"><button type="submit" class="btn btn-primary">
+        <form action="" method="" class="cz_lin_contact_form">
+          <input type="text" name="name" placeholder="Імя">
+          <input type="text" name="phone" placeholder="Телефон">
+          <input type="email" name="email" placeholder="Електронна пошта">
+          <textarea rows="5" name="message" placeholder="Повідомлення"></textarea>
+          <a href="thankYou.php"><button type="submit" class="btn btn-primary">
           <i class="fa fa-paper-plane"></i> Відправити</button>
-        </a>
+          </a>
         </form>           
       </div>
   </div>
@@ -454,6 +454,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- end emailJs -->
 <script src="assets/callMe.js"></script>
 <script src="assets/sendEmail.js"></script>
+
 
 </body>
 </html>

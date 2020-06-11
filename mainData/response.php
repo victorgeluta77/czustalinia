@@ -278,9 +278,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <h2 class="text-center  wowload fadeInUp">Емоції після прибирання!!</h2>
       <div class="row wowload fadeInLeftBig">      
           <div class="col-sm-6 col-sm-offset-3 col-xs-12">    
-            <form action="" method="get">
-              <input type="text" placeholder="Імя">
-              <textarea rows="5" placeholder="Спокійне джерело емоцій"></textarea>
+            <form action="" method="" class="cz_lin_respons_form">
+              <input type="text" name = "name" placeholder="Імя">
+              <input type="email" name="email" placeholder="Електронна пошта">
+              <textarea rows="5" name = "message" placeholder="Спокійне джерело емоцій"></textarea>
               <a href="feedback.php">
                 <button type="submit" class="btn btn-primary">
                   <i class="fa fa-paper-plane"></i> Відправити
@@ -456,6 +457,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </script>
 <!-- end emailJs -->
 <script src="assets/callMe.js"></script>
-<script src="assets/sendEmail.js"></script>
+<script src="assets/responsEmail.js"></script>
 </body>
 </html>
