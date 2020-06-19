@@ -245,6 +245,75 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+   
+
+}
+.cz_lin_price_pslugu{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.cz_lin_price_box{
+    width: 45%;
+    height: auto;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid #f71515;
+    border-radius: 10px;
+    
+}
+.cz_lin_price_box p{
+    width: 70%;
+    text-align: justify;
+    margin-top: -30px;
+    font-size: 1.25em;
+    font-family: 'Goudy Bookletter 1911';
+    /* border: 2px solid green; */
+}
+
+.cz_lin_price_box_h2{
+    width: 70%;
+    height: auto;
+    font-weight: 400;
+    color: #ffffff;
+    background-color: #f71515;
+    border-radius: 8px;
+    font-family: 'Goudy Bookletter 1911';
+}
+.cz_lin_price_box_info{
+    width: 70%;
+    height: auto;
+    margin-top: -30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #f71515;
+    border-radius: 8px;
+}
+.cz_lin_price_box_data{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.cz_lin_price_box_text, .cz_lin_price_box_price{
+    width: 70%;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    background-color: #ffffff;
+    color: #f71515;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: 'Goudy Bookletter 1911';
+    border-radius: 8px;
 }
 /* end Price */
 /* seo text teg strong */
@@ -392,6 +461,26 @@
         font-weight: 600;
     }
     /* end page contact-for-work */
+    /* price */
+    .cz_lin_price_pslugu{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .cz_lin_price_box{
+        width: 100%;
+        height: auto;
+        text-align: center;
+        margin-top: 20px;
+        /* border: 2px solid green; */
+    }
+    .cz_lin_price_box_h2{
+        width: 70%;
+        height: auto;
+    }
+    /* end price */
 }
 @media screen and (max-width: 767px){
 
@@ -535,4 +624,28 @@
         font-weight: 700;
         margin: 10px 0 0 0;
     }
+     /* price */
+     .cz_lin_price_pslugu{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .cz_lin_price_box{
+        width: 100%;
+        height: auto;
+        text-align: center;
+        margin-top: 20px;
+        /* border: 2px solid green; */
+    }
+    .cz_lin_price_box_h2{
+        width: 90%;
+        height: auto;
+    }
+    .cz_lin_price_box_info{
+        margin-top: -20px;
+        width: 90%;
+    }
+    /* end price */
 }

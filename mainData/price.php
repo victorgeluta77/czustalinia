@@ -176,22 +176,145 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- Start Czusta Price -->
 <div class="cz_lin_price">
   <h1 class="text-center">Чиста лінія ціни.</h1> 
-    <div class="cz_lin_price_pslugu">
-      <div>
-
+  <div class="cz_lin_price_pslugu">
+      <div class="cz_lin_price_box">
+          <h2 class="cz_lin_price_box_h2">Миття вікон і фасадів.</h2>
+          <p>Миття скла та вітрин після ремонту.</p>
+          <div class="cz_lin_price_box_info">
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Заввишки до 3 м </div>
+                <div class="cz_lin_price_box_price">від 60 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Від 3 до 9 м</div>
+                <div class="cz_lin_price_box_price">від 80 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Вище 9 м</div>
+                <div class="cz_lin_price_box_price">120 грн/м2</div>
+              </div>
+          </div>
       </div>
-      <div>
-          
+      <div class="cz_lin_price_box">
+          <h2 class="cz_lin_price_box_h2">Генеральне миття вікон.</h2>
+          <p>Миття скла та вітрин передсвяткове.</p>
+          <div class="cz_lin_price_box_info">
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Заввишки до 3 м </div>
+                <div class="cz_lin_price_box_price">від 40 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Від 3 до 9 м</div>
+                <div class="cz_lin_price_box_price">від 60 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Вище 9 м</div>
+                <div class="cz_lin_price_box_price">80 грн/м2</div>
+              </div>
+          </div>
       </div>
-    </div>
-
+      <div class="cz_lin_price_box">
+          <h2 class="cz_lin_price_box_h2">Прибирання після ремонту.</h2>
+          <p>Комплесне прибирання після ремонту</p>
+          <div class="cz_lin_price_box_info">
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Кімнати </div>
+                <div class="cz_lin_price_box_price">Вартість</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Від 3 до 9 м</div>
+                <div class="cz_lin_price_box_price">від 60 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Вище 9 м</div>
+                <div class="cz_lin_price_box_price">80 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Вище 9 м</div>
+                <div class="cz_lin_price_box_price">80 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Вище 9 м</div>
+                <div class="cz_lin_price_box_price">80 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Вище 9 м</div>
+                <div class="cz_lin_price_box_price">80 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Вище 9 м</div>
+                <div class="cz_lin_price_box_price">80 грн/м2</div>
+              </div>
+          </div>
+         
+      </div>
+      <div class="cz_lin_price_box">
+          <h2 class="cz_lin_price_box_h2">Генеральне прибирання.</h2>
+          <p>Посилене прибирання, в тому числі і важкодоступних місць, до яких, зазвичай, не доходять руки.</p>
+          <div class="cz_lin_price_box_info">
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Кімнати </div>
+                <div class="cz_lin_price_box_price">Вартість</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Від 3 до 9 м</div>
+                <div class="cz_lin_price_box_price">від 60 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Вище 9 м</div>
+                <div class="cz_lin_price_box_price">80 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Вище 9 м</div>
+                <div class="cz_lin_price_box_price">80 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Вище 9 м</div>
+                <div class="cz_lin_price_box_price">80 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Вище 9 м</div>
+                <div class="cz_lin_price_box_price">80 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Вище 9 м</div>
+                <div class="cz_lin_price_box_price">80 грн/м2</div>
+              </div>
+          </div>
+        </div>
+      <div class="cz_lin_price_box">
+          <h2 class="cz_lin_price_box_h2">Підтримуюче прибирання.</h2>
+          <p>Регулярне прибирання, націлене на постійне підтримання чистоти у Вашому домі.</p>
+      </div>
+      <div class="cz_lin_price_box">
+          <h2 class="cz_lin_price_box_h2">Прибирання додаткових зон.</h2>
+      </div>
+      <div class="cz_lin_price_box">
+          <h2 class="cz_lin_price_box_h2">Додаткові послуги.</h2>
+      </div>
+      <div class="cz_lin_price_box">
+          <h2 class="cz_lin_price_box_h2">Хімчистка килимів і ковроліну.</h2>
+      </div>
+      <div class="cz_lin_price_box">
+          <h2 class="cz_lin_price_box_h2">Хімчистка диванів.</h2>
+      </div >
+      <div class="cz_lin_price_box">
+          <h2 class="cz_lin_price_box_h2">Хімчистка матрасів.</h2>
+      </div >
+      <div class="cz_lin_price_box">
+          <h2 class="cz_lin_price_box_h2">Хімчистка шкіряних меблів.</h2>
+      </div>
+      <div class="cz_lin_price_box">
+          <h2 class="cz_lin_price_box_h2">Чистка поверхонь.</h2>
+      </div>
+  </div>
 </div>
 <!-- End Czusta Linia Price -->
 
 <!-- Cirlce Starts -->
 <div id="about"  class="container spacer about">
     <div class="process">
-    <h3 class="text-center wowload fadeInUp">Секрет чистої оселі</h3>
+    <h4 class="text-center wowload fadeInUp">Секрет чистої оселі</h4>
     <ul class="row text-center list-inline  wowload bounceInUp">
          <li>
               <span><img src="img/logo 01.png" alt=""><b>Чисто</b></span>
@@ -219,7 +342,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/bath 2.jpg" alt="img01"/>
           <figcaption>
-              <h2>Ванна</h2>
+              <h5>Ванна</h5>
               <!-- <p>Lily likes to play with crayons and pencils<br> -->
               <p><a href="img/portfolio/bath 2.jpg" title="Ванна кімната,санвузол" data-gallery>детальніше</a></p>            
           </figcaption>
@@ -227,7 +350,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/cafe.jpg" alt="img01"/>
           <figcaption>
-              <h2>Кафе</h2>
+              <h5>Кафе</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/portfolio/cafe.jpg" title="Кавярня,піцерія,ресторан" data-gallery>детальніше</a></p>            
@@ -236,7 +359,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/big window1.jpg" alt="img01"/>
           <figcaption>
-              <h2>Вікно</h2>
+              <h5>Вікно</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/portfolio/big window1.jpg" title="Вікна великих розмірів" data-gallery>детальніше</a></p>            
@@ -245,7 +368,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/door glass 1.jpg" alt="img01"/>
           <figcaption>
-              <h2>Двері</h2>
+              <h5>Двері</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/portfolio/door glass 1.jpg" title="Зовнішні двері" data-gallery>детальніше</a></p>            
@@ -254,7 +377,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/glass 2.jpg" alt="img01"/>
           <figcaption>
-              <h2>Дзеркало</h2>
+              <h5>Дзеркало</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/portfolio/glass 2.jpg" title="дзеркала" data-gallery>детальніше</a></p>            
@@ -264,7 +387,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/kitchen 2.jpg" alt="img01"/>
           <figcaption>
-              <h2>Кухня</h2>
+              <h5>Кухня</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/portfolio/kitchen 2.jpg" title="Кухня" data-gallery>детальніше</a></p>            
@@ -273,7 +396,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/trading room.jpg" alt="img01"/>
           <figcaption>
-              <h2>Склад</h2>
+              <h5>Склад</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/portfolio/trading room.jpg" title="Магазин,торгівельний зал,show room,склад" data-gallery>детальніше</a></p>            
@@ -282,7 +405,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/stairs3.jpg" alt="img01"/>
           <figcaption>
-              <h2>Сходи</h2>
+              <h5>Сходи</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/portfolio/stairs3.jpg" title="Сходи,перила" data-gallery>детальніше</a></p>            
@@ -308,7 +431,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <!-- The container for the modal slides -->
       <div class="slides"></div>
       <!-- Controls for the borderless lightbox -->
-      <h3 class="title">title</h3>
+      <h4 class="title">title</h4>
       <a class="prev">‹</a>
       <a class="next">›</a>
       <a class="close">×</a>
