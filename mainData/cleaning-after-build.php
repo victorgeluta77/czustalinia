@@ -5,7 +5,7 @@
 <meta charset="UTF-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title> Прибирання після ремонту| Чиста Лінія</title>
+<title>Прибирання після ремонту | Чиста Лінія</title>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script>
 <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-927284132&amp;l=dataLayer&amp;cx=c"></script>
@@ -48,7 +48,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-W2XC96C');</script>
 <!-- End Google Tag Manager -->
 <meta http-equiv="Page-Enter" content="revealTrans(Duration=1,Transition=1)">
-<meta name="description" content="Клінінгове агенство &quot;Чиста Лінія&quot;: прибирання після ремонту Львів, клінінг після ремонту Львів, миття квартир після ремонту =+38-(067)-370-14-92.">
+<meta name="description" content="Прибирання приватних будинків Львів ☎ +38(067)-3701492 : прибирання офісів львів, прибирання у львові, професійне обладнання для прибирання -максимальна якість">
 <meta property="og:title" content="Сzysta-linia | Прибирання після ремонту Львів">
 <meta property="og:description" content="Клінінг після ремонту Львів: замовляйте послуги прибирання у професіоналів +38-(067)-370-14-92">
 <meta property="og:url" content="https://www.czysta-linia.com">
@@ -177,11 +177,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-            		<!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-              		
-              		<!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
               		<div class="scroll animated fadeInUp"> <a href="contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">ПРИБИРАННЯ ПІСЛЯ РЕМОНТУ</h1> -->
                 </div>
               	</div>
             </div>
@@ -194,11 +190,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-                <!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-                  
-                  <!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
                   <div class="scroll animated fadeInUp"> <a href="contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">ГЕНЕРАЛЬНЕ ПРИБИРАННЯ</h1>   -->
                 </div>
                 </div>
             </div>
@@ -211,11 +203,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-                <!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-                  
-                  <!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
                   <div class="scroll animated fadeInUp"><a href="contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">ЩОДЕННЕ ПРИБИРАННЯ</h1>   -->
                 </div>
                 </div>
             </div>
@@ -228,11 +216,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-                <!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-                  
-                  <!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
                   <div class="scroll animated fadeInUp"><a href="contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o "></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">СПЕЦІАЛЬНІ РОБОТИ</h1>   -->
                 </div>
                 </div>
             </div>
@@ -255,7 +239,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- Cirlce Starts -->
 <div id="about"  class="container spacer about">
-  <h2 class="text-center wowload fadeInUp">Прибирання після ремонту</h2>  
+  <h1 class="text-center wowload fadeInUp">Прибирання після ремонту</h1>  
     <div class="row">
     <div class="col-sm-6 wowload fadeInLeft">
       <h4><img src="img/logo03_mini.png" alt="Прибирання після ремонту львів"></i> Ремонт помешкання.</h4>

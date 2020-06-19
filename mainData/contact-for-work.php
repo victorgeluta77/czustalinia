@@ -5,7 +5,7 @@
 <meta charset="UTF-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title> Клінінг Львів| Контакти</title>
+<title>Клининговая уборка квартир| Контакти</title>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script>
 <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-927284132&amp;l=dataLayer&amp;cx=c"></script>
@@ -48,7 +48,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-W2XC96C');</script>
 <!-- End Google Tag Manager -->
 <meta http-equiv="Page-Enter" content="revealTrans(Duration=1,Transition=1)">
-<meta name="description" content="Прибирання котеджів &quot;Чиста Лінія&quot;: професійне прибирання Львів, прибирання офісних приміщень Львів, миття вікон =+38-(067)-370-14-92.">
+<meta name="description" content="Клінінг компанія львів  ☎ +38(067)-3701492 : клінінгові послуги - оптимальна паслуга для прибирання. Завжди готовы допомогти, якысно та ефективно.">
 <meta property="og:title" content="Сzysta-linia | Клининговые услуги">
 <meta property="og:description" content=" Клининговые услуги: +38-(067)-370-14-92">
 <meta property="og:url" content="https://www.czysta-linia.com">
@@ -167,10 +167,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-            		<!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-              		<!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
                   <div class="scroll animated fadeInUp"> <a href="/contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">ПРИБИРАННЯ ПІСЛЯ РЕМОНТУ</h1> -->
               		</div>
               	</div>
             </div>
@@ -183,11 +180,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-                <!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-                
-                  <!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
                   <div class="scroll animated fadeInUp"> <a href="/contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">ГЕНЕРАЛЬНЕ ПРИБИРАННЯ</h1> -->
                   </div>
                 </div>
             </div>
@@ -200,11 +193,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-                <!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-                  
-                  <!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
                   <div class="scroll animated fadeInUp"><a href="/contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">ЩОДЕННЕ ПРИБИРАННЯ</h1> -->
                   </div>
                 </div>
             </div>
@@ -217,11 +206,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-                <!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
- 
-                  <!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
                   <div class="scroll animated fadeInUp"><a href="/contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o "></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">СПЕЦІАЛЬНІ РОБОТИ</h1> -->
                   </div>
                 </div>
             </div>
@@ -278,7 +263,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="contact" class="spacer">
 <!--Contact Starts-->
 <div class="container contactform center cz_lin_contact_dani">
-<h2 class="text-center  wowload fadeInUp">Попереднє замовлення</h2>
+<h1 class="text-center  wowload fadeInUp">Попереднє замовлення</h1>
   <div class="row wowload fadeInLeftBig">      
       <div class="col-sm-6 col-sm-offset-3 col-xs-12">   
         <form action="" method="" class="cz_lin_contact_form">

@@ -5,7 +5,7 @@
 <meta charset="UTF-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title> Прибирання квартир Львів| Чиста Лінія</title>
+<title>Миття квартир після ремонту| Чиста Лінія</title>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script>
 <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-927284132&amp;l=dataLayer&amp;cx=c"></script>
@@ -49,7 +49,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 <meta http-equiv="Page-Enter" content="revealTrans(Duration=1,Transition=1)">
-<meta name="description" content="Клінінгова компанія Львів Чиста Лінія ☎ +38(067)-3701492 : клининг, прибирання будинку ціна, прибирання квартир після ремонту Львів">
+<meta name="description" content="Уборка помещений после ремонта Чиста Лінія ☎ +38(067)-3701492 : цены на уборку квартиры после ремонта, приятная цена, качество обслуживания.">
 <meta property="og:title" content="Сzysta-linia | Прибирання Львів">
 <meta property="og:description" content=" Прибирання після ремонту, ремонт: замовляйте послуги прибирання у професіоналів +38-(067)-370-14-92">
 <meta property="og:url" content="https://www.czysta-linia.com">
@@ -169,11 +169,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-            		<!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-              		
-              		<!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
               		<div class="scroll animated fadeInUp"> <a href="/contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">ПРИБИРАННЯ ПІСЛЯ РЕМОНТУ</h1>   -->
                 </div>
               	</div>
             </div>
@@ -186,11 +182,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-                <!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-                  
-                  <!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
                   <div class="scroll animated fadeInUp"> <a href="/contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">ГЕНЕРАЛЬНЕ ПРИБИРАННЯ</h1>   -->
                 </div>
                 </div>
             </div>
@@ -203,11 +195,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-                <!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-                  
-                  <!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
                   <div class="scroll animated fadeInUp"><a href="/contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o"></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">ЩОДЕННЕ ПРИБИРАННЯ</h1>   -->
                 </div>
                 </div>
             </div>
@@ -220,11 +208,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              <div class="carousel-caption">
             	<div class="caption-wrapper">
             		<div class="caption-info">
-                <!-- <img src="images/logobig.png" class="animated bounceInUp" alt="logo"> -->
-                 
-                  <!-- <p class="animated bounceInRight">Lead by passionate and uber progressive team that lives and breathes design.</p> -->
                   <div class="scroll animated fadeInUp"><a href="/contact-for-work.php" class="btn btn-default"><i class="fa fa-paper-plane-o "></i> ЗАМОВИТИ ПРИБАРАННЯ</a></div>
-                  <!-- <h1 class="animated bounceInLeft">СПЕЦІАЛЬНІ РОБОТИ</h1>   -->
                 </div>
                 </div>
             </div>
@@ -256,18 +240,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h2 class="text-center wowload fadeInUp">Прибирання та емоції наколо !!!</h2>  
   <div class="row">
   <div class="col-sm-6 wowload fadeInLeft">
-    <h4>
-      <!-- <i class="fa fa-paint-brush"></i> -->
+    <h1>
       <img src="img/logo02_mini.png" alt="">
-       Професійне прибирання.</h4>
+       Професійне прибирання.</h1>
     <p>Чисто, приємно, момент, що надихає - культура, професійний ріст , з іншої сторони - відпочинок, коли все на місці і з внутрішьою свободою летиш вперед.</p>
-    
-
   </div>
   <div class="col-sm-6 wowload fadeInRight">
-  <h4>
-    <!-- <i class="fa fa-code"></i> -->
-    <img src="img/logo05_mini.png" alt=""> Емоції</h4>
+  <h1>
+    <img src="img/logo05_mini.png" alt=""> Емоції</h1>
   <p>Простір, котрий оточує навколо. Все на своєму місці. Магія. Час щоб відпочити та творити! Діліться з нами своїми мріями та емоціями. <br> Нам це важливо!</p>    
   </div>
   </div>

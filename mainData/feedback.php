@@ -5,7 +5,7 @@
 <meta charset="UTF-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title> Клінінг Львів| Чиста Лінія</title>
+<title>Прибирання будинку Львів | Чиста Лінія</title>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script>
 <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-927284132&amp;l=dataLayer&amp;cx=c"></script>
@@ -48,7 +48,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-W2XC96C');</script>
 <!-- End Google Tag Manager -->
 <meta http-equiv="Page-Enter" content="revealTrans(Duration=1,Transition=1)">
-<meta name="description" content="Прибирання квартир Чиста Лінія ☎ +38(067)-3701492 : професійне прибирання Львів, прибирання офісних приміщень Львів, миття вікон.">
+<meta name="description" content="Прибирання квартир Львів Чиста Лінія ☎ +38(067)-3701492 : професійне прибирання, ремонт квартир львів, уборка квартир, уборка квартир после ремонта цены.">
 <meta property="og:title" content="Сzysta-linia | Щоденне прибирання офісів">
 <meta property="og:description" content=" Щоденне прибирання офісів: замовляйте послуги прибирання у професіоналів +38-(067)-370-14-92">
 <meta property="og:url" content="https://www.czysta-linia.com">
