@@ -255,7 +255,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
   
     <div class="process">
-    <h3 class="text-center wowload fadeInUp">Секрет чистої оселі</h3>
+    <h5 class="text-center wowload fadeInUp">Секрет чистої оселі</h5>
     <ul class="row text-center list-inline  wowload bounceInUp">
          <li>
               <span><img src="img/logo 01.png" alt=""><b>Чисто</b></span>
@@ -373,7 +373,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <!-- The container for the modal slides -->
       <div class="slides"></div>
       <!-- Controls for the borderless lightbox -->
-      <h3 class="title">title</h3>
+      <h5 class="title">title</h5>
       <a class="prev">‹</a>
       <a class="next">›</a>
       <a class="close">×</a>
