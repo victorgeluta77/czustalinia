@@ -136,11 +136,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               <div class="cz_lin_navig_pages" id="cz_lin_navig_pages_blog"> <a href="blog.php">Блог</a> </div>
                 <div class="cz_lin_navig_pages" id="cz_lin_navig_pages_customer"> <a href="our-customers.php">Партнери</a> </div>
                 <div class="cz_lin_navig_pages" id="cz_lin_navig_pages_galery"> <a href="galery.php">Галерея</a> </div>
+                <div class="cz_lin_navig_pages" id="cz_lin_navig_pages_galery"> <a href="price.php">Ціни</a> </div>
                 <div class="cz_lin_poslygu" id="cz_lin_about_us"> Про Нас 
                   <div class="cz_lin_about_us_menu" id="cz_lin_about_us_menu">
                       <div> <a href="contact-for-work.php">Контакти</a></div>
                       <div><a href="response.php">Відгуки</a>  </div>
-                      <div><a href="price.php">Ціни</a></div>
                   </div>
                 </div>
               </div>
