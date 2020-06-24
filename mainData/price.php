@@ -179,7 +179,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div class="cz_lin_price_pslugu">
       <div class="cz_lin_price_box">
           <h2 class="cz_lin_price_box_h2">Миття вікон і фасадів.</h2>
-          <p>Миття скла та вітрин після ремонту.</p>
+          <p class="cz_lin_price_box_info_text">Миття скла та вітрин після ремонту.</p>
           <div class="cz_lin_price_box_info">
               <div class="cz_lin_price_box_data">
                 <div class="cz_lin_price_box_text">Заввишки до 3 м </div>
@@ -197,7 +197,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </div>
       <div class="cz_lin_price_box">
           <h2 class="cz_lin_price_box_h2">Генеральне миття вікон.</h2>
-          <p>Миття скла та вітрин передсвяткове.</p>
+          <p class="cz_lin_price_box_info_text">Миття скла та вітрин передсвяткове.</p>
           <div class="cz_lin_price_box_info">
               <div class="cz_lin_price_box_data">
                 <div class="cz_lin_price_box_text">Заввишки до 3 м </div>
@@ -213,99 +213,221 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               </div>
           </div>
       </div>
+      
       <div class="cz_lin_price_box">
-          <h2 class="cz_lin_price_box_h2">Прибирання після ремонту.</h2>
-          <p>Комплесне прибирання після ремонту</p>
+          <h2 class="cz_lin_price_box_h2">Генеральне прибирання.</h2>
+          <p class="cz_lin_price_box_info_text" >Посилене прибирання, в тому числі і важкодоступних місць, до яких, зазвичай, не доходять руки.</p>
           <div class="cz_lin_price_box_info">
               <div class="cz_lin_price_box_data">
                 <div class="cz_lin_price_box_text">Кімнати </div>
                 <div class="cz_lin_price_box_price">Вартість</div>
               </div>
               <div class="cz_lin_price_box_data">
-                <div class="cz_lin_price_box_text">Від 3 до 9 м</div>
-                <div class="cz_lin_price_box_price">від 60 грн/м2</div>
+                <div class="cz_lin_price_box_text">до 50 кв.м.</div>
+                <div class="cz_lin_price_box_price"> 2500 грн.</div>
               </div>
               <div class="cz_lin_price_box_data">
-                <div class="cz_lin_price_box_text">Вище 9 м</div>
-                <div class="cz_lin_price_box_price">80 грн/м2</div>
+                <div class="cz_lin_price_box_text"> 50 - 60 кв.м.</div>
+                <div class="cz_lin_price_box_price">2800 грн.</div>
               </div>
               <div class="cz_lin_price_box_data">
-                <div class="cz_lin_price_box_text">Вище 9 м</div>
-                <div class="cz_lin_price_box_price">80 грн/м2</div>
+                <div class="cz_lin_price_box_text">70 - 80 кв.м.</div>
+                <div class="cz_lin_price_box_price">3500 грн.</div>
               </div>
               <div class="cz_lin_price_box_data">
-                <div class="cz_lin_price_box_text">Вище 9 м</div>
-                <div class="cz_lin_price_box_price">80 грн/м2</div>
+                <div class="cz_lin_price_box_text">80 - 100 кв.м.</div>
+                <div class="cz_lin_price_box_price">4100 грн.</div>
               </div>
               <div class="cz_lin_price_box_data">
-                <div class="cz_lin_price_box_text">Вище 9 м</div>
-                <div class="cz_lin_price_box_price">80 грн/м2</div>
+                <div class="cz_lin_price_box_text">від 100 кв.м.</div>
+                <div class="cz_lin_price_box_price"> від 40 грн/м2</div>
+              </div>
+          </div>
+          <p class="cz_linia_text_price_info" >
+          &#10003; миття духової печі – 250 грн. <br>
+          &#10003; миття вікон панорамних 60 грн/м2
+          </p> 
+      </div>
+     
+      <div class="cz_lin_price_box">
+          <h2 class="cz_lin_price_box_h2">Підтримуюче прибирання.</h2>
+          <p class="cz_lin_price_box_info_text">Регулярне прибирання, націлене на постійне підтримання чистоти у Вашому домі.</p>
+          <div class="cz_lin_price_box_info">
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Кімнати </div>
+                <div class="cz_lin_price_box_price">Вартість</div>
               </div>
               <div class="cz_lin_price_box_data">
-                <div class="cz_lin_price_box_text">Вище 9 м</div>
-                <div class="cz_lin_price_box_price">80 грн/м2</div>
+                <div class="cz_lin_price_box_text">до 50 кв.м.</div>
+                <div class="cz_lin_price_box_price"> 1400 грн.</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text"> 50 - 60 кв.м.</div>
+                <div class="cz_lin_price_box_price">2100 грн.</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">70 - 80 кв.м.</div>
+                <div class="cz_lin_price_box_price">2400 грн.</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">80 - 100 кв.м.</div>
+                <div class="cz_lin_price_box_price">2600 грн.</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">від 100 кв.м.</div>
+                <div class="cz_lin_price_box_price"> від 20 грн/м2</div>
+              </div>
+          </div>
+      </div>
+      <div class="cz_lin_price_box">
+          <h2 class="cz_lin_price_box_h2">Прибирання після ремонту.</h2>
+          <p class="cz_lin_price_box_info_text">Комплесне прибирання після ремонту</p>
+          <div class="cz_lin_price_box_info">
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Кімнати </div>
+                <div class="cz_lin_price_box_price">Вартість</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">до 50 кв.м.</div>
+                <div class="cz_lin_price_box_price"> 2600 грн.</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text"> 50 - 60 кв.м.</div>
+                <div class="cz_lin_price_box_price">3200 грн.</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">70 - 80 кв.м.</div>
+                <div class="cz_lin_price_box_price">3500 грн.</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">80 - 100 кв.м.</div>
+                <div class="cz_lin_price_box_price">4300 грн.</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">від 100 кв.м.</div>
+                <div class="cz_lin_price_box_price"> від 40 грн/м2</div>
               </div>
           </div>
          
       </div>
       <div class="cz_lin_price_box">
-          <h2 class="cz_lin_price_box_h2">Генеральне прибирання.</h2>
-          <p>Посилене прибирання, в тому числі і важкодоступних місць, до яких, зазвичай, не доходять руки.</p>
+          <h2 class="cz_lin_price_box_h2">Прибирання додаткових зон.</h2>
           <div class="cz_lin_price_box_info">
               <div class="cz_lin_price_box_data">
-                <div class="cz_lin_price_box_text">Кімнати </div>
-                <div class="cz_lin_price_box_price">Вартість</div>
+                <div class="cz_lin_price_box_text">Миття холодильника всередині (усунення неприємних запахів та дезинфекція)</div>
+                <div class="cz_lin_price_box_price"> 250 грн.</div>
               </div>
               <div class="cz_lin_price_box_data">
-                <div class="cz_lin_price_box_text">Від 3 до 9 м</div>
-                <div class="cz_lin_price_box_price">від 60 грн/м2</div>
+                <div class="cz_lin_price_box_text">Миття холодильника всередині без продуктів</div>
+                <div class="cz_lin_price_box_price">220 грн.</div>
               </div>
               <div class="cz_lin_price_box_data">
-                <div class="cz_lin_price_box_text">Вище 9 м</div>
-                <div class="cz_lin_price_box_price">80 грн/м2</div>
+                <div class="cz_lin_price_box_text">Доставка ключів</div>
+                <div class="cz_lin_price_box_price">100 грн.</div>
               </div>
               <div class="cz_lin_price_box_data">
-                <div class="cz_lin_price_box_text">Вище 9 м</div>
-                <div class="cz_lin_price_box_price">80 грн/м2</div>
-              </div>
-              <div class="cz_lin_price_box_data">
-                <div class="cz_lin_price_box_text">Вище 9 м</div>
-                <div class="cz_lin_price_box_price">80 грн/м2</div>
-              </div>
-              <div class="cz_lin_price_box_data">
-                <div class="cz_lin_price_box_text">Вище 9 м</div>
-                <div class="cz_lin_price_box_price">80 грн/м2</div>
-              </div>
-              <div class="cz_lin_price_box_data">
-                <div class="cz_lin_price_box_text">Вище 9 м</div>
-                <div class="cz_lin_price_box_price">80 грн/м2</div>
+                <div class="cz_lin_price_box_text">Додаткові санвузли</div>
+                <div class="cz_lin_price_box_price">150 грн.</div>
               </div>
           </div>
-        </div>
-      <div class="cz_lin_price_box">
-          <h2 class="cz_lin_price_box_h2">Підтримуюче прибирання.</h2>
-          <p>Регулярне прибирання, націлене на постійне підтримання чистоти у Вашому домі.</p>
       </div>
-      <div class="cz_lin_price_box">
-          <h2 class="cz_lin_price_box_h2">Прибирання додаткових зон.</h2>
-      </div>
-      <div class="cz_lin_price_box">
-          <h2 class="cz_lin_price_box_h2">Додаткові послуги.</h2>
-      </div>
+      
       <div class="cz_lin_price_box">
           <h2 class="cz_lin_price_box_h2">Хімчистка килимів і ковроліну.</h2>
+          <div class="cz_lin_price_box_info">
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Ковролін до 50 кв.м.</div>
+                <div class="cz_lin_price_box_price"> 50 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Ковролін від 50 кв.м.</div>
+                <div class="cz_lin_price_box_price">40 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Синтетичні килими 1 кв.м.</div>
+                <div class="cz_lin_price_box_price">від 70 грн/м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Натуральні килими 1 кв.м.</div>
+                <div class="cz_lin_price_box_price">від 120 грн/м2</div>
+              </div>
+          </div>
       </div>
       <div class="cz_lin_price_box">
           <h2 class="cz_lin_price_box_h2">Хімчистка диванів.</h2>
+          <p class="cz_linia_text_price_info" >
+          &#10003; 2 посадочних місця 600 грн. <br>
+          &#10003; 3 посадочних місця 700 грн. <br>
+          &#10003; Кутовий диван на 2 посадочних місця + кутова секція 800 грн. <br>
+          &#10003; Великий кутовий диван 3 посадочних місця + кутова секція 1100 грн. <br>
+          &#10003; Крісло для відпочинку 250 грн. <br>
+          &#10003; Крісло зі спальним механізмом 300 грн. <br>
+          &#10003; Пуф 150 грн. <br>
+          &#10003; Крісло офісне 100 грн.
+          </p> 
       </div >
       <div class="cz_lin_price_box">
           <h2 class="cz_lin_price_box_h2">Хімчистка матрасів.</h2>
+          <p class="cz_linia_text_price_info" >
+          &#10003; Односпальний 90х190   400 грн. <br>
+          &#10003; Півтораспальний 140х190   450 грн. <br>
+          &#10003; Двоспальний 160х200   600 грн.
+          </p>
       </div >
       <div class="cz_lin_price_box">
           <h2 class="cz_lin_price_box_h2">Хімчистка шкіряних меблів.</h2>
+          <p class="cz_linia_text_price_info" >
+          &#10003; Крісло шкіряне 350 грн. <br>
+          &#10003; Диван 3-х місний шкіряний 600 грн. <br>
+          &#10003; Диван кутовий шкіряний 800 грн.
+          </p>
       </div>
       <div class="cz_lin_price_box">
           <h2 class="cz_lin_price_box_h2">Чистка поверхонь.</h2>
+          <p class="cz_linia_text_price_info" >
+          &#10003; Чистка плитки від застарілого бруду  від 40 грн/м2<br>
+          &#10003; Чистка плитки після ремонту від 45 грн/м2 <br>
+          &#10003; Чистка промислових наливних підлог та підлог з мармуровою крихтою від 40 грн/м2 <br>
+          &#10003; Чистка лінолеуму від 40 грн/м2
+          </p>
+      </div>
+      <div class="cz_lin_price_box">
+          <h2 class="cz_lin_price_box_h2">Додаткові послуги.</h2>
+          <p class="cz_lin_price_box_info_text" >Прибирання додаткових зон</p>
+          <div class="cz_lin_price_box_info">
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Миття фасадних вікон</div>
+                <div class="cz_lin_price_box_price"> 80 грн./м2</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Миття мікрохвильової печі всередині</div>
+                <div class="cz_lin_price_box_price">100 грн.</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Миття духовки всередині</div>
+                <div class="cz_lin_price_box_price">250 грн.</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Миття витяжки всередині</div>
+                <div class="cz_lin_price_box_price">180 грн.</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Наводим порядок та миєм балкони</div>
+                <div class="cz_lin_price_box_price"> 400 грн.</div> 
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Миття “складних” люстр</div>
+                <div class="cz_lin_price_box_price"> від 600 грн.</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Очистка жиру на верхній частині кухні і вентиляційних трубах </div>
+                <div class="cz_lin_price_box_price">400 грн.</div>
+              </div>
+              <div class="cz_lin_price_box_data">
+                <div class="cz_lin_price_box_text">Прибрати “дім” домашніх тварин</div>
+                <div class="cz_lin_price_box_price">250 грн.</div>
+              </div>
+          </div>
       </div>
   </div>
 </div>

@@ -270,7 +270,7 @@
     border-radius: 10px;
     
 }
-.cz_lin_price_box p{
+.cz_lin_price_box_info_text{
     width: 70%;
     text-align: justify;
     margin-top: -30px;
@@ -311,9 +311,14 @@
     background-color: #ffffff;
     color: #f71515;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 17px;
     font-family: 'Goudy Bookletter 1911';
     border-radius: 8px;
+}
+.cz_linia_text_price_info{
+    margin-top: 0px;
+    font-size: 20px;
+    font-weight: 600;
 }
 /* end Price */
 /* seo text teg strong */
@@ -332,6 +337,7 @@
     font-family: 'Cambay', sans-serif;
     letter-spacing: 0px;
 }
+
 /* end text opus poslygu */
 /* this class drew line around div  by green color */
 .cz_lin_contact_info{
