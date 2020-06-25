@@ -147,7 +147,6 @@
 /* end main page contact for work - h3 */
 /* Social Icon */
 .cz_linia_social_icon{
-    position: relative;
     width: 72px;
     position: fixed;
     left: 20px;
@@ -157,7 +156,7 @@
     z-index: 1000;
 }
 .cz_linia_social_icon>a{
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .cz_linia_social_icon>a:hover{
     transform: scale(1.25);

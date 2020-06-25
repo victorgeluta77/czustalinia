@@ -81,6 +81,14 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 #works figcaption h2{
 	margin-top: 22%;
 	font-size: 1.85em;
+	font-weight: 600;
+	font-family: 'Goudy Bookletter 1911';
+	opacity: 0.75;
+}
+#works figcaption h3, h5{
+	margin-top: 22%;
+	font-size: 2em;
+	font-weight: 600;
 	font-family: 'Goudy Bookletter 1911';
 	opacity: 0.75;
 }

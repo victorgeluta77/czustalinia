@@ -480,7 +480,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <figure class="effect-oscar  wowload fadeInUp">
         <img src="mainData/img/portfolio/bath 2.jpg" alt="img01"/>
         <figcaption>
-            <h3>Ванна</h3>
+            <h2>Ванна</h2>
             <!-- <p>Lily likes to play with crayons and pencils<br> -->
             <p><a href="mainData/img/portfolio/bath 2.jpg" title="Ванна кімната,санвузол" data-gallery>детальніше</a></p>            
         </figcaption>
@@ -488,7 +488,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      <figure class="effect-oscar  wowload fadeInUp">
         <img src="mainData/img/portfolio/cafe.jpg" alt="img01"/>
         <figcaption>
-            <h3>Кафе</h3>
+            <h2>Кафе</h2>
             <p>
               <!-- Lily likes to play with crayons and pencils<br> -->
             <a href="mainData/img/portfolio/cafe.jpg" title="Кавярня,піцерія,ресторан" data-gallery>детальніше</a></p>            
@@ -497,7 +497,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      <figure class="effect-oscar  wowload fadeInUp">
         <img src="mainData/img/portfolio/big window1.jpg" alt="img01"/>
         <figcaption>
-            <h3>Вікно</h3>
+            <h2>Вікно</h2>
             <p>
               <!-- Lily likes to play with crayons and pencils<br> -->
             <a href="mainData/img/portfolio/big window1.jpg" title="Вікна великих розмірів" data-gallery>детальніше</a></p>            
@@ -506,7 +506,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      <figure class="effect-oscar  wowload fadeInUp">
         <img src="mainData/img/portfolio/door glass 1.jpg" alt="img01"/>
         <figcaption>
-            <h3>Двері</h3>
+            <h2>Двері</h2>
             <p>
               <!-- Lily likes to play with crayons and pencils<br> -->
             <a href="mainData/img/portfolio/door glass 1.jpg" title="Зовнішні двері" data-gallery>детальніше</a></p>            
@@ -515,7 +515,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      <figure class="effect-oscar  wowload fadeInUp">
         <img src="mainData/img/portfolio/glass 2.jpg" alt="img01"/>
         <figcaption>
-            <h3>Дзеркало</h3>
+            <h2>Дзеркало</h2>
             <p>
               <!-- Lily likes to play with crayons and pencils<br> -->
             <a href="mainData/img/portfolio/glass 2.jpg" title="дзеркала" data-gallery>детальніше</a></p>            
@@ -525,7 +525,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      <figure class="effect-oscar  wowload fadeInUp">
         <img src="mainData/img/portfolio/kitchen 2.jpg" alt="img01"/>
         <figcaption>
-            <h3>Кухня</h3>
+            <h2>Кухня</h2>
             <p>
               <!-- Lily likes to play with crayons and pencils<br> -->
             <a href="mainData/img/portfolio/kitchen 2.jpg" title="Кухня" data-gallery>детальніше</a></p>            
@@ -534,7 +534,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <figure class="effect-oscar  wowload fadeInUp">
         <img src="mainData/img/portfolio/trading room.jpg" alt="img01"/>
         <figcaption>
-            <h3>Склад</h3>
+            <h2>Склад</h2>
             <p>
               <!-- Lily likes to play with crayons and pencils<br> -->
             <a href="mainData/img/portfolio/trading room.jpg" title="Магазин,торгівельний зал,show room,склад" data-gallery>детальніше</a></p>            
@@ -543,7 +543,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <figure class="effect-oscar  wowload fadeInUp">
         <img src="mainData/img/portfolio/stairs3.jpg" alt="img01"/>
         <figcaption>
-            <h3>Сходи</h3>
+            <h2>Сходи</h2>
             <p>
               <!-- Lily likes to play with crayons and pencils<br> -->
             <a href="mainData/img/portfolio/stairs3.jpg" title="Сходи,перила" data-gallery>детальніше</a></p>            
