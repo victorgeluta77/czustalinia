@@ -309,7 +309,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/daily_clean/cafe.jpg" alt="клінінгова компанія львів"/>
           <figcaption>
-              <h3>Кафе</h3>
+              <h5>Кафе</h5>
               <!-- <p>Lily likes to play with crayons and pencils<br> -->
               <p><a href="img/daily_clean/cafe.jpg" title="Кавярня, піцерія, ресторан" data-gallery>детальніше</a></p>            
           </figcaption>
@@ -317,7 +317,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/daily_clean/flat.jpg" alt="клінінг львів ціни"/>
           <figcaption>
-              <h3>Квартира</h3>
+              <h5>Квартира</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/daily_clean/flat.jpg" title="Квартира, мансарда" data-gallery>детальніше</a></p>            
@@ -326,7 +326,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/daily_clean/gallery.jpg" alt="генеральне прибирання львів"/>
           <figcaption>
-              <h3>Галерея</h3>
+              <h5>Галерея</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/daily_clean/gallery.jpg" title="Галерея, виставки" data-gallery>детальніше</a></p>            
@@ -335,7 +335,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/daily_clean/house.jpg" alt="засіб для миття вікон"/>
           <figcaption>
-              <h3>Будинок</h3>
+              <h5>Будинок</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/daily_clean/house.jpg" title="Будинок, особняк" data-gallery>детальніше</a></p>            
@@ -344,7 +344,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/daily_clean/ofis.jpg" alt="професійне прибирання львів"/>
           <figcaption>
-              <h3>Офіс</h3>
+              <h5>Офіс</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/daily_clean/ofis.jpg" title="Офісні приміщення" data-gallery>детальніше</a></p>            
@@ -354,7 +354,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/daily_clean/sclad.jpg" alt="уборка квартир клининг"/>
           <figcaption>
-              <h3>Склад</h3>
+              <h5>Склад</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/daily_clean/sclad.jpg" title="Склад, складські приміщення" data-gallery>детальніше</a></p>            
@@ -363,7 +363,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/daily_clean/servise.jpg" alt="ремонт приміщень львів"/>
           <figcaption>
-              <h3>Сервіс</h3>
+              <h5>Сервіс</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/daily_clean/servise.jpg" title="Авто сервіс" data-gallery>детальніше</a></p>            
@@ -372,7 +372,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/daily_clean/shop.jpg" alt="хімчистка салону львів"/>
           <figcaption>
-              <h3>Магазин</h3>
+              <h5>Магазин</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/daily_clean/shop.jpg" title="Магазин, торговельний центр" data-gallery>детальніше</a></p>            
@@ -399,7 +399,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <!-- The container for the modal slides -->
       <div class="slides"></div>
       <!-- Controls for the borderless lightbox -->
-      <h5 class="title">title</h5>
+      <h3 class="title">title</h3>
       <a class="prev">‹</a>
       <a class="next">›</a>
       <a class="close">×</a>

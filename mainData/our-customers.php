@@ -414,7 +414,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/bath 2.jpg" alt="img01"/>
           <figcaption>
-              <h2>Ванна</h2>
+              <h5>Ванна</h5>
               <!-- <p>Lily likes to play with crayons and pencils<br> -->
               <p><a href="img/portfolio/bath 2.jpg" title="Ванна кімната,санвузол" data-gallery>детальніше</a></p>            
           </figcaption>
@@ -422,7 +422,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/cafe.jpg" alt="img01"/>
           <figcaption>
-              <h2>Кафе</h2>
+              <h5>Кафе</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/portfolio/cafe.jpg" title="Кавярня,піцерія,ресторан" data-gallery>детальніше</a></p>            
@@ -431,7 +431,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/big window1.jpg" alt="img01"/>
           <figcaption>
-              <h2>Вікно</h2>
+              <h5>Вікно</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/portfolio/big window1.jpg" title="Вікна великих розмірів" data-gallery>детальніше</a></p>            
@@ -440,7 +440,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/door glass 1.jpg" alt="img01"/>
           <figcaption>
-              <h2>Двері</h2>
+              <h5>Двері</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/portfolio/door glass 1.jpg" title="Зовнішні двері" data-gallery>детальніше</a></p>            
@@ -449,7 +449,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/glass 2.jpg" alt="img01"/>
           <figcaption>
-              <h2>Дзеркало</h2>
+              <h5>Дзеркало</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/portfolio/glass 2.jpg" title="дзеркала" data-gallery>детальніше</a></p>            
@@ -459,7 +459,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/kitchen 2.jpg" alt="img01"/>
           <figcaption>
-              <h2>Кухня</h2>
+              <h5>Кухня</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/portfolio/kitchen 2.jpg" title="Кухня" data-gallery>детальніше</a></p>            
@@ -468,7 +468,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/trading room.jpg" alt="img01"/>
           <figcaption>
-              <h2>Склад</h2>
+              <h5>Склад</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/portfolio/trading room.jpg" title="Магазин,торгівельний зал,show room,склад" data-gallery>детальніше</a></p>            
@@ -477,7 +477,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/portfolio/stairs3.jpg" alt="img01"/>
           <figcaption>
-              <h2>Сходи</h2>
+              <h5>Сходи</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/portfolio/stairs3.jpg" title="Сходи,перила" data-gallery>детальніше</a></p>            
@@ -494,8 +494,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <p class="wowload flipInX "><a href="#" ><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-telegram fa-2x" aria-hidden="true" ></i></a> <a href="#"><i class="fa fa-instagram fa-2x"></i></a> <a href="#"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a><a href=""><i class="fa fa-youtube fa-2x" aria-hidden="true"></i> </a></p>
   SEO Front-end : victorgeluta@gmail.com - LinkedIn - Viktor Heliuta
   <!-- Copyright <script type='text/javascript'>var mdate = new Date();document.write(mdate.getFullYear());</script> Creative Studio. All rights reserved. -->
-  </div>
-  <div style="position:absolute;left:-3072px;top:0"><div class="width=100% height=100% align-left"></div><div class="align-left" width="1"></div><a href="&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#108;&#105;&#110;&#105;&#121;&#97;&#111;&#107;&#111;&#110;&#46;&#114;&#117;">&#1086;&#1082;&#1085;&#1072;</a> <!-- div --><!-- div end --> <a href="&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#101;&#109;&#105;&#117;&#109;&#107;&#97;&#100;&#114;&#46;&#114;&#117;">&#1092;&#1086;&#1090;&#1086;&#1075;&#1088;&#1072;&#1092;</a> <!-- div --><!-- div end --> <a href="&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#117;&#110;&#105;&#115;&#104;&#97;&#98;&#108;&#111;&#110;.&#99;&#111;&#109;">html php</a> <a href="&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#114;&#105;&#116;&#117;&#97;&#108;&#103;&#97;&#114;&#97;&#110;&#116;&#46;&#114;&#117;">&#1087;&#1072;&#1084;&#1103;&#1090;&#1085;&#1080;&#1082;&#1080;</a> <a href="&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#116;&#117;&#116;&#108;&#111;&#118;&#101;&#46;&#114;&#117;">&#1079;&#1085;&#1072;&#1082;&#1086;&#1084;&#1089;&#1090;&#1074;&#1072;</a></div>
+</div>
   <!-- # Footer Ends -->
   <a href="#home" class="gototop "><i class="fa fa-angle-up  fa-3x"></i></a>
   <!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->

@@ -298,7 +298,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/spesial_clean/big window1.jpg" alt="прибирання квартир львів робота"/>
           <figcaption>
-              <h2>Висота</h2>
+              <h5>Висота</h5>
               <!-- <p>Lily likes to play with crayons and pencils<br> -->
               <p><a href="img/spesial_clean/big window1.jpg" title="Вікна високі та габаритні" data-gallery>детальніше</a></p>            
           </figcaption>
@@ -306,7 +306,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/spesial_clean/ceiling1.jpg" alt="прибирання будинків львів"/>
           <figcaption>
-              <h2>Меблі</h2>
+              <h5>Меблі</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/spesial_clean/ceiling1.jpg" title="Офісні меблі" data-gallery>детальніше</a></p>            
@@ -315,7 +315,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/spesial_clean/door glass 2.jpg" alt="клининговая уборка квартир"/>
           <figcaption>
-              <h2>Двері</h2>
+              <h5>Двері</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/spesial_clean/door glass 2.jpg" title="Зовнішні двері великих розмірів" data-gallery>детальніше</a></p>            
@@ -324,7 +324,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/spesial_clean/door2.jpg" alt="генеральне прибирання квартир"/>
           <figcaption>
-              <h2>Скло</h2>
+              <h5>Скло</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/spesial_clean/door2.jpg" title="Склянні поверхні" data-gallery>детальніше</a></p>            
@@ -333,7 +333,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/spesial_clean/kitchen 1.jpg" alt="клінінгові послуги львів"/>
           <figcaption>
-              <h2>Кухня</h2>
+              <h5>Кухня</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/spesial_clean/kitchen 1.jpg" title="Складні поверхні" data-gallery>детальніше</a></p>            
@@ -343,7 +343,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/spesial_clean/shop2.jpg" alt="миття квартир після ремонту"/>
           <figcaption>
-              <h2>Стеля</h2>
+              <h5>Стеля</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/spesial_clean/shop2.jpg" title="Високі стелі" data-gallery>детальніше</a></p>            
@@ -352,7 +352,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/spesial_clean/vitrunaa.jpg" alt="прибирання котеджів львів"/>
           <figcaption>
-              <h2>Вітрина</h2>
+              <h5>Вітрина</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/spesial_clean/vitrunaa.jpg" title="Вітрини" data-gallery>детальніше</a></p>            
@@ -361,7 +361,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/spesial_clean/wndow2.jpg" alt="ремонт квартир львів ціни"/>
           <figcaption>
-              <h2>Вікна</h2>
+              <h5>Вікна</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/spesial_clean/wndow2.jpg" title="Вікна та висотні обєкти" data-gallery>детальніше</a></p>            

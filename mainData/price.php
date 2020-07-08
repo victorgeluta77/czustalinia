@@ -553,7 +553,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <!-- The container for the modal slides -->
       <div class="slides"></div>
       <!-- Controls for the borderless lightbox -->
-      <h4 class="title">title</h4>
+      <h3 class="title">title</h3>
       <a class="prev">‹</a>
       <a class="next">›</a>
       <a class="close">×</a>

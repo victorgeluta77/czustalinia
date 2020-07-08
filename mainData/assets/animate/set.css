@@ -13,7 +13,7 @@
 	margin: 0;	/*change here for spacing*/	
 	width: 25%;
 	text-align: center;
-	cursor: pointer;
+	/* cursor: pointer; */
 }
 
 .grid figure img {

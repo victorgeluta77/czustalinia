@@ -306,7 +306,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/general_clean/shop 1.jpg" alt="клінінгові послуги"/>
           <figcaption>
-              <h3>Вітрина</h3>
+              <h5>Вітрина</h5>
               <!-- <p>Lily likes to play with crayons and pencils<br> -->
               <p><a href="img/general_clean/shop 1.jpg" title="Вітрини,рекламні поверхні" data-gallery>детальніше</a></p>            
           </figcaption>
@@ -314,7 +314,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/general_clean/roof 2.jpg" alt="клінінг львів"/>
           <figcaption>
-              <h3>Стеля</h3>
+              <h5>Стеля</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/general_clean/roof 2.jpg" title="Стеля, навісне обладнання" data-gallery>детальніше</a></p>            
@@ -323,7 +323,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/general_clean/showroom 3.jpg" alt="прибирання офісів львів"/>
           <figcaption>
-              <h3>Підлога</h3>
+              <h5>Підлога</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/general_clean/showroom 3.jpg" title="Торгівельний зал" data-gallery>детальніше</a></p>            
@@ -332,7 +332,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/general_clean/showroom 4.jpg" alt="прибирання після ремонту"/>
           <figcaption>
-              <h3>Скло</h3>
+              <h5>Скло</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/general_clean/showroom 4.jpg" title="Дзеркала, склянні поверхні" data-gallery>детальніше</a></p>            
@@ -360,7 +360,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <!-- The container for the modal slides -->
       <div class="slides"></div>
       <!-- Controls for the borderless lightbox -->
-      <h5 class="title">title</h5>
+      <h3 class="title">title</h3>
       <a class="prev">‹</a>
       <a class="next">›</a>
       <a class="close">×</a>

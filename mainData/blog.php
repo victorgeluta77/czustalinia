@@ -345,35 +345,35 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- works -->
 <div id="works"  class=" clearfix grid"> 
   <figure class="effect-oscar  wowload fadeInUp">
-      <img src="img/equipment/101.jpg" alt="Професійний пилосос Керхер"/>
+      <img src="img/equipment/blog101.jpg" alt="Професійний пилосос Керхер"/>
       <figcaption>
-          <h2>Порохотяг</h2>
+          <h5>Порохотяг</h5>
           <!-- <p>Lily likes to play with crayons and pencils<br> -->
-          <p><a href="img/equipment/101.jpg" title="Професійна техніка Керхер" data-gallery>детальніше</a></p>            
+          <p><a href="img/equipment/blog101.jpg" title="Професійна техніка Керхер" data-gallery>детальніше</a></p>            
       </figcaption>
   </figure>
    <figure class="effect-oscar  wowload fadeInUp">
-      <img src="img/equipment/102.jpg" alt="Машина для миття підлоги Karcher BDS 43/150"/>
+      <img src="img/equipment/blog102.jpg" alt="Машина для миття підлоги Karcher BDS 43/150"/>
       <figcaption>
-          <h2>Підлога</h2>
+          <h5>Підлога</h5>
           <p>
             <!-- Lily likes to play with crayons and pencils<br> -->
-          <a href="img/equipment/102.jpg" title="Karcher BDS 43/150" data-gallery>детальніше</a></p>            
+          <a href="img/equipment/blog102.jpg" title="Karcher BDS 43/150" data-gallery>детальніше</a></p>            
       </figcaption>
   </figure>
    <figure class="effect-oscar  wowload fadeInUp">
-      <img src="img/equipment/103.jpg" alt="Миючий пилосос KARCHER Puzzi 100"/>
+      <img src="img/equipment/blog103.jpg" alt="Миючий пилосос KARCHER Puzzi 100"/>
       <figcaption>
-          <h2>Миття</h2>
+          <h5>Миття</h5>
           <p>
             <!-- Lily likes to play with crayons and pencils<br> -->
-          <a href="img/equipment/103.jpg" title="Миючий пилосос KARCHER Puzzi 100" data-gallery>детальніше</a></p>            
+          <a href="img/equipment/blog103.jpg" title="Миючий пилосос KARCHER Puzzi 100" data-gallery>детальніше</a></p>            
       </figcaption>
   </figure>
    <figure class="effect-oscar  wowload fadeInUp">
-      <img src="img/equipment/104.jpg" alt="чистка кавролінів"/>
+      <img src="img/equipment/blog104.jpg" alt="чистка кавролінів"/>
       <figcaption>
-          <h2>Ідеально</h2>
+          <h5>Ідеально</h5>
           <p>
             <!-- Lily likes to play with crayons and pencils<br> -->
           <a href="img/equipment/104.jpg" title="Натирання підлог" data-gallery>детальніше</a></p>            
@@ -396,16 +396,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!-- # Footer Ends -->
   <a href="#home" class="gototop "><i class="fa fa-angle-up  fa-3x"></i></a>
   <!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
-  <!-- <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls"> -->
+  <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls"> 
       <!-- The container for the modal slides -->
-      <!-- <div class="slides"></div> -->
+      <div class="slides"></div>
       <!-- Controls for the borderless lightbox -->
-      <!-- <h3 class="title">title</h3>
+      <h3 class="title">title</h3>
       <a class="prev">‹</a>
       <a class="next">›</a>
-      <a class="close">×</a> -->
+      <a class="close">×</a>
       <!-- The modal dialog, which will be used to wrap the lightbox content -->    
-  <!-- </div> -->
+  </div>
 
 
 

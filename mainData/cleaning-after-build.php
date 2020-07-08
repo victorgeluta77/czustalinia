@@ -76,6 +76,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- gallery -->
 <link rel="stylesheet" href="assets/gallery/blueimp-gallery.min.css">
 
+
 <!-- favicon -->
 <link rel="shortcut icon" href="img/favicon1.ico" type="image/x-icon">
 <link rel="icon" href="img/favicon1.ico" type="image/x-icon"> <!-- new -->
@@ -311,7 +312,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/after_build_clean/bath.jpg" alt="прибирання квартир львів"/>
           <figcaption>
-              <h2>Ванна</h2>
+              <h5>Ванна</h5>
               <!-- <p>Lily likes to play with crayons and pencils<br> -->
               <p><a href="img/after_build_clean/bath.jpg" title="Ванна кімната,санвузол" data-gallery>детальніше</a></p>            
           </figcaption>
@@ -319,7 +320,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/after_build_clean/door4.jpg" alt="прибирання квартир"/>
           <figcaption>
-              <h2>Двері</h2>
+              <h5>Двері</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/after_build_clean/door4.jpg" title="Вхідні двері" data-gallery>детальніше</a></p>            
@@ -328,7 +329,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/after_build_clean/floor.jpg" alt="ремонт квартир львів"/>
           <figcaption>
-              <h2>Підлога</h2>
+              <h5>Підлога</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/after_build_clean/floor.jpg" title="Підлога та плитка" data-gallery>детальніше</a></p>            
@@ -337,7 +338,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/after_build_clean/glass 2.jpg" alt="уборка после стройки"/>
           <figcaption>
-              <h2>Дзеркала</h2>
+              <h5>Дзеркала</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/after_build_clean/glass 2.jpg" title="Дзеркала" data-gallery>детальніше</a></p>            
@@ -346,7 +347,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/after_build_clean/living room 2.jpg" alt="услуги уборки квартир"/>
           <figcaption>
-              <h2>Вітальня</h2>
+              <h5>Вітальня</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/after_build_clean/living room 2.jpg" title="Вітальня" data-gallery>детальніше</a></p>            
@@ -354,18 +355,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </figure>
        
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/after_build_clean/stairs3.jpg" alt="ремонт приміщення львів"/>
+          <img src="img/our_work/our-work-08.jpg" alt="ремонт приміщення львів"/>
           <figcaption>
-              <h2>Сходи</h2>
+              <h5>Басейн</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/after_build_clean/stairs3.jpg" title="Сходи" data-gallery>детальніше</a></p>            
+              <a href="img/our_work/our-work-08.jpg" title="Басейн" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/after_build_clean/window under roof.jpg" alt="ремонт квартир львов"/>
           <figcaption>
-              <h2>Мансарда</h2>
+              <h5>Мансарда</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/after_build_clean/window under roof.jpg" title="Мансарди, вікна" data-gallery>детальніше</a></p>            
@@ -374,7 +375,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <figure class="effect-oscar  wowload fadeInUp">
           <img src="img/after_build_clean/window.jpg" alt="клінінгові компанії львів"/>
           <figcaption>
-              <h2>Вікна</h2>
+              <h5>Вікна</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
               <a href="img/after_build_clean/window.jpg" title="Склянні поверхні" data-gallery>детальніше</a></p>            
@@ -389,11 +390,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
   <!-- Footer Starts -->
   <div class="footer text-center spacer">
-    <p class="wowload flipInX "><a href="#" ><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-telegram fa-2x" aria-hidden="true" ></i></a> <a href="#"><i class="fa fa-instagram fa-2x"></i></a> <a href="#"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a><a href=""><i class="fa fa-youtube fa-2x" aria-hidden="true"></i> </a></p>
+    <p class="wowload flipInX ">
+      <a href="#" ><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a> 
+      <a href="#"><i class="fa fa-telegram fa-2x" aria-hidden="true" ></i></a> 
+      <a href="#"><i class="fa fa-instagram fa-2x"></i></a> 
+      <a href="#"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
+      <a href=""><i class="fa fa-youtube fa-2x" aria-hidden="true"></i> </a>
+    </p>
     SEO Front-end : victorgeluta@gmail.com - LinkedIn - Viktor Heliuta
   <!-- Copyright <script type='text/javascript'>var mdate = new Date();document.write(mdate.getFullYear());</script> Creative Studio. All rights reserved. -->
-  </div>
-  <div style="position:absolute;left:-3072px;top:0"><div class="width=100% height=100% align-left"></div><div class="align-left" width="1"></div><a href="&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#108;&#105;&#110;&#105;&#121;&#97;&#111;&#107;&#111;&#110;&#46;&#114;&#117;">&#1086;&#1082;&#1085;&#1072;</a> <!-- div --><!-- div end --> <a href="&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#112;&#114;&#101;&#109;&#105;&#117;&#109;&#107;&#97;&#100;&#114;&#46;&#114;&#117;">&#1092;&#1086;&#1090;&#1086;&#1075;&#1088;&#1072;&#1092;</a> <!-- div --><!-- div end --> <a href="&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#117;&#110;&#105;&#115;&#104;&#97;&#98;&#108;&#111;&#110;.&#99;&#111;&#109;">html php</a> <a href="&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#114;&#105;&#116;&#117;&#97;&#108;&#103;&#97;&#114;&#97;&#110;&#116;&#46;&#114;&#117;">&#1087;&#1072;&#1084;&#1103;&#1090;&#1085;&#1080;&#1082;&#1080;</a> <a href="&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#116;&#117;&#116;&#108;&#111;&#118;&#101;&#46;&#114;&#117;">&#1079;&#1085;&#1072;&#1082;&#1086;&#1084;&#1089;&#1090;&#1074;&#1072;</a></div>
+
   <!-- # Footer Ends -->
   <a href="#home" class="gototop "><i class="fa fa-angle-up  fa-3x"></i></a>
   <!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
