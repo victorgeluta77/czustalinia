@@ -478,7 +478,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!-- works -->
   <div id="works"  class=" clearfix grid"> 
     <figure class="effect-oscar  wowload fadeInUp">
-        <img src="mainData/img/portfolio/bath 2.jpg" alt="img01"/>
+        <img src="mainData/img/portfolio/bath 2.jpg" alt="ванна"/>
         <figcaption>
             <h2>Ванна</h2>
             <p>
@@ -487,7 +487,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </figcaption>
     </figure>
      <figure class="effect-oscar  wowload fadeInUp">
-        <img src="mainData/img/portfolio/cafe.jpg" alt="img01"/>
+        <img src="mainData/img/portfolio/cafe.jpg" alt="кафе"/>
         <figcaption>
             <h2>Кафе</h2>
             <p>
@@ -496,7 +496,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </figcaption>
     </figure>
      <figure class="effect-oscar  wowload fadeInUp">
-        <img src="mainData/img/portfolio/big window1.jpg" alt="img01"/>
+        <img src="mainData/img/portfolio/big window1.jpg" alt="вікно"/>
         <figcaption>
             <h2>Вікно</h2>
             <p>
@@ -505,7 +505,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </figcaption>
     </figure>
      <figure class="effect-oscar  wowload fadeInUp">
-        <img src="mainData/img/portfolio/door glass 1.jpg" alt="img01"/>
+        <img src="mainData/img/portfolio/door glass 1.jpg" alt="двері"/>
         <figcaption>
             <h2>Двері</h2>
             <p>
@@ -514,7 +514,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </figcaption>
     </figure>
      <figure class="effect-oscar  wowload fadeInUp">
-        <img src="mainData/img/portfolio/glass 2.jpg" alt="img01"/>
+        <img src="mainData/img/portfolio/glass 2.jpg" alt="дзеркало"/>
         <figcaption>
             <h2>Дзеркало</h2>
             <p>
@@ -524,16 +524,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </figure>
      
      <figure class="effect-oscar  wowload fadeInUp">
-        <img src="mainData/img/portfolio/kitchen 2.jpg" alt="img01"/>
+        <img src="mainData/img/portfolio/kitchen 2.jpg" alt="Кухня, меблі"/>
         <figcaption>
             <h2>Кухня</h2>
             <p>
-            <a href="mainData/img/portfolio/kitchen 2.jpg" title="Кухня" data-gallery>детальніше</a>
+            <a href="mainData/img/portfolio/kitchen 2.jpg" title="Кухня, меблі" data-gallery>детальніше</a>
             </p>            
         </figcaption>
     </figure>
     <figure class="effect-oscar  wowload fadeInUp">
-        <img src="mainData/img/portfolio/bigroom.jpg" alt="img01"/>
+        <img src="mainData/img/portfolio/bigroom.jpg" alt="склад, магазин"/>
         <figcaption>
             <h2>Склад</h2>
             <p>
@@ -542,11 +542,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </figcaption>
     </figure>
     <figure class="effect-oscar  wowload fadeInUp">
-        <img src="mainData/img/portfolio/stairs3.jpg" alt="img01"/>
+        <img src="mainData/img/our_work/pool.jpg" alt="Басейн"/>
         <figcaption>
-            <h2>Сходи</h2>
+            <h2>Басейн</h2>
             <p>
-            <a href="mainData/img/portfolio/stairs3.jpg" title="Сходи,перила" data-gallery>детальніше</a>
+            <a href="mainData/img/our_work/pool.jpg" title="Басейн" data-gallery>детальніше</a>
             </p>            
         </figcaption>
     </figure>

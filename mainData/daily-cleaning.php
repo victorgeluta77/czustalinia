@@ -352,21 +352,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </figure>
        
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/daily_clean/sclad.jpg" alt="уборка квартир клининг"/>
+          <img src="img/our_work/vacuumCleaner.jpg" alt="уборка квартир клининг"/>
           <figcaption>
-              <h5>Склад</h5>
+              <h5>Обладнання</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/daily_clean/sclad.jpg" title="Склад, складські приміщення" data-gallery>детальніше</a></p>            
+              <a href="img/our_work/vacuumCleaner.jpg" title="Професіне обладнання" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
       <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/daily_clean/servise.jpg" alt="ремонт приміщень львів"/>
+          <img src="img/our_work/vacuumRoom.jpg" alt="прибирання квартир львів"/>
           <figcaption>
-              <h5>Сервіс</h5>
+              <h5>Спальня</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/daily_clean/servise.jpg" title="Авто сервіс" data-gallery>детальніше</a></p>            
+              <a href="img/our_work/vacuumRoom.jpg" title="Спальня" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
       <figure class="effect-oscar  wowload fadeInUp">

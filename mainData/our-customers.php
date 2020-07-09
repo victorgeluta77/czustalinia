@@ -412,7 +412,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!-- works -->
   <div id="works"  class=" clearfix grid"> 
       <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/bath 2.jpg" alt="img01"/>
+          <img src="img/portfolio/bath 2.jpg" alt="Ванна кімната,санвузол"/>
           <figcaption>
               <h5>Ванна</h5>
               <!-- <p>Lily likes to play with crayons and pencils<br> -->
@@ -420,7 +420,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/cafe.jpg" alt="img01"/>
+          <img src="img/portfolio/cafe.jpg" alt="Кавярня,піцерія,ресторан"/>
           <figcaption>
               <h5>Кафе</h5>
               <p>
@@ -429,7 +429,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/big window1.jpg" alt="img01"/>
+          <img src="img/portfolio/big window1.jpg" alt="Вікна великих розмірів"/>
           <figcaption>
               <h5>Вікно</h5>
               <p>
@@ -438,7 +438,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/door glass 1.jpg" alt="img01"/>
+          <img src="img/portfolio/door glass 1.jpg" alt="Зовнішні двері"/>
           <figcaption>
               <h5>Двері</h5>
               <p>
@@ -447,7 +447,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/glass 2.jpg" alt="img01"/>
+          <img src="img/portfolio/glass 2.jpg" alt="дзеркала"/>
           <figcaption>
               <h5>Дзеркало</h5>
               <p>
@@ -457,7 +457,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </figure>
        
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/kitchen 2.jpg" alt="img01"/>
+          <img src="img/portfolio/kitchen 2.jpg" alt="Кухня"/>
           <figcaption>
               <h5>Кухня</h5>
               <p>
@@ -466,16 +466,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </figcaption>
       </figure>
       <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/trading room.jpg" alt="img01"/>
+          <img src="img/our_work/tradingHall.jpg" alt="Магазин,торгівельний зал,show room,склад"/>
           <figcaption>
               <h5>Склад</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/portfolio/trading room.jpg" title="Магазин,торгівельний зал,show room,склад" data-gallery>детальніше</a></p>            
+              <a href="img/our_work/tradingHall.jpg" title="Магазин,торгівельний зал,show room,склад" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
       <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/stairs3.jpg" alt="img01"/>
+          <img src="img/portfolio/stairs3.jpg" alt="Сходи,перила"/>
           <figcaption>
               <h5>Сходи</h5>
               <p>

@@ -296,20 +296,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!-- works -->
   <div id="works"  class=" clearfix grid"> 
       <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/spesial_clean/big window1.jpg" alt="прибирання квартир львів робота"/>
+          <img src="img/our_work/cockloft.jpg" alt="прибирання квартир львів"/>
           <figcaption>
-              <h5>Висота</h5>
+              <h5>Мансарда</h5>
               <!-- <p>Lily likes to play with crayons and pencils<br> -->
-              <p><a href="img/spesial_clean/big window1.jpg" title="Вікна високі та габаритні" data-gallery>детальніше</a></p>            
+              <p><a href="img/our_work/cockloft.jpg" title="Мансарда" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/spesial_clean/ceiling1.jpg" alt="прибирання будинків львів"/>
+          <img src="img/our_work/insideCaffee.jpg" alt="прибирання будинків львів"/>
           <figcaption>
-              <h5>Меблі</h5>
+              <h5>Піцерія</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/spesial_clean/ceiling1.jpg" title="Офісні меблі" data-gallery>детальніше</a></p>            
+              <a href="img/our_work/insideCaffee.jpg" title="Піцерія" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
@@ -341,21 +341,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </figure>
        
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/spesial_clean/shop2.jpg" alt="миття квартир після ремонту"/>
+          <img src="img/our_work/roofAndWindow.jpg" alt="миття квартир після ремонту"/>
           <figcaption>
               <h5>Стеля</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/spesial_clean/shop2.jpg" title="Високі стелі" data-gallery>детальніше</a></p>            
+              <a href="img/our_work/roofAndWindow.jpg" title="Високі стелі" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
       <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/spesial_clean/vitrunaa.jpg" alt="прибирання котеджів львів"/>
+          <img src="img/our_work/viewWindow.jpg" alt="прибирання котеджів львів"/>
           <figcaption>
-              <h5>Вітрина</h5>
+              <h5>Панорама</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/spesial_clean/vitrunaa.jpg" title="Вітрини" data-gallery>детальніше</a></p>            
+              <a href="img/our_work/viewWindow.jpg" title="Панорамні вікна" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
       <figure class="effect-oscar  wowload fadeInUp">

@@ -304,38 +304,38 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!-- works -->
   <div id="works"  class=" clearfix grid"> 
       <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/general_clean/shop 1.jpg" alt="клінінгові послуги"/>
+          <img src="img/our_work/pool.jpg" alt="Обслуговування басейнів"/>
           <figcaption>
-              <h5>Вітрина</h5>
+              <h5>Басейн</h5>
               <!-- <p>Lily likes to play with crayons and pencils<br> -->
-              <p><a href="img/general_clean/shop 1.jpg" title="Вітрини,рекламні поверхні" data-gallery>детальніше</a></p>            
+              <p><a href="img/our_work/pool.jpg" title="Обслуговування басейнів" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/general_clean/roof 2.jpg" alt="клінінг львів"/>
+          <img src="img/our_work/pizzaWindow.jpg" alt="клінінг львів"/>
           <figcaption>
-              <h5>Стеля</h5>
+              <h5>Піца</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/general_clean/roof 2.jpg" title="Стеля, навісне обладнання" data-gallery>детальніше</a></p>            
+              <a href="img/our_work/pizzaWindow.jpg" title="Піцерії, кафе" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/general_clean/showroom 3.jpg" alt="прибирання офісів львів"/>
+          <img src="img/our_work/wallAndCap.jpg" alt="прибирання офісів львів"/>
           <figcaption>
-              <h5>Підлога</h5>
+              <h5>Стіни</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/general_clean/showroom 3.jpg" title="Торгівельний зал" data-gallery>детальніше</a></p>            
+              <a href="img/our_work/wallAndCap.jpg" title="Торгівельний зал" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/general_clean/showroom 4.jpg" alt="прибирання після ремонту"/>
+          <img src="img/our_work/topFloor.jpg" alt="прибирання після ремонту"/>
           <figcaption>
-              <h5>Скло</h5>
+              <h5>Мансарда</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/general_clean/showroom 4.jpg" title="Дзеркала, склянні поверхні" data-gallery>детальніше</a></p>            
+              <a href="img/our_work/topFloor.jpg" title="Дзеркала, склянні поверхні" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
        
