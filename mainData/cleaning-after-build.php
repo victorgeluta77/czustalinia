@@ -390,13 +390,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
   <!-- Footer Starts -->
   <div class="footer text-center spacer">
-    <p class="wowload flipInX ">
-      <a href="#" ><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a> 
-      <a href="#"><i class="fa fa-telegram fa-2x" aria-hidden="true" ></i></a> 
-      <a href="#"><i class="fa fa-instagram fa-2x"></i></a> 
-      <a href="#"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
-      <a href=""><i class="fa fa-youtube fa-2x" aria-hidden="true"></i> </a>
-    </p>
+  <p class="wowload flipInX "><a href="https://www.facebook.com/czysta.linia.lviv/" ><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a> <a href="https://t.me/czystalinia"><i class="fa fa-telegram fa-2x" aria-hidden="true" ></i></a> <a href="https://www.instagram.com/czysta.linia?r=nametag"><i class="fa fa-instagram fa-2x"></i></a> <a href="#"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a><a href=""><i class="fa fa-youtube fa-2x" aria-hidden="true"></i> </a></p>
     SEO Front-end : victorgeluta@gmail.com - LinkedIn - Viktor Heliuta
   <!-- Copyright <script type='text/javascript'>var mdate = new Date();document.write(mdate.getFullYear());</script> Creative Studio. All rights reserved. -->
 
