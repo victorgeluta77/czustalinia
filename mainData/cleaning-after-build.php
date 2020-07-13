@@ -84,6 +84,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <link rel="stylesheet" href="assets/style.css">
 <link rel="stylesheet" href="assets/style_menu.css">
+
+<!-- emailJS -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.3.2/dist/email.min.js"></script>
+    <script type="text/javascript">
+      (function(){
+          emailjs.init("user_0sk1WQsiBBRpCg7ZBYZl0");
+      })();
+    </script>
+<!-- end emailJs -->
 </head>
 <body>
               <!-- Google Tag Manager (noscript) -->
@@ -355,12 +364,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </figure>
        
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/our_work/our-work-08.jpg" alt="ремонт приміщення львів"/>
+          <img src="img/our_work/pool.jpg" alt="ремонт приміщення львів"/>
           <figcaption>
               <h5>Басейн</h5>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/our_work/our-work-08.jpg" title="Басейн" data-gallery>детальніше</a></p>            
+              <a href="img/our_work/pool.jpg" title="Басейн" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
       <figure class="effect-oscar  wowload fadeInUp">
@@ -429,14 +438,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- custom script -->
 <script src="assets/script.js"></script>
 <script src="assets/script_menu.js"></script>
-<!-- emailJS -->
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.3.2/dist/email.min.js"></script>
-    <script type="text/javascript">
-      (function(){
-          emailjs.init("user_0sk1WQsiBBRpCg7ZBYZl0");
-      })();
-    </script>
-<!-- end emailJs -->
+
 <script src="assets/callMe.js"></script>
 <script src="assets/sendEmail.js"></script>
 

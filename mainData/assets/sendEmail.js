@@ -1,4 +1,4 @@
-
+"use strict"
  const sendMess = document.querySelector('.cz_lin_contact_form');
  
  sendMess.addEventListener('submit',(event)=>{
