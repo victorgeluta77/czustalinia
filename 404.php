@@ -44,22 +44,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="stylesheet" type="text/css" href="assets/font-awesome-4.7.0/css/font-awesome.css">
 
 <!-- bootstrap -->
-<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
+<link rel="stylesheet" href="mainData/assets/bootstrap/css/bootstrap.min.css" />
 
 <!-- animate.css -->
-<link rel="stylesheet" href="assets/animate/animate.css" />
-<link rel="stylesheet" href="assets/animate/set.css" />
+<link rel="stylesheet" href="mainData/assets/animate/animate.css" />
+<link rel="stylesheet" href="mainData/assets/animate/set.css" />
 
 <!-- gallery -->
-<link rel="stylesheet" href="assets/gallery/blueimp-gallery.min.css">
+<link rel="stylesheet" href="mainData/assets/gallery/blueimp-gallery.min.css">
 
 <!-- favicon -->
-<link rel="shortcut icon" href="img/favicon1.ico" type="image/x-icon">
-<link rel="icon" href="img/favicon1.ico" type="image/x-icon"> <!-- new -->
+<link rel="shortcut icon" href="mainData/img/favicon1.ico" type="image/x-icon">
+<link rel="icon" href="mainData/img/favicon1.ico" type="image/x-icon"> <!-- new -->
 
 
-<link rel="stylesheet" href="assets/style.css">
-<link rel="stylesheet" href="assets/style_menu.css">
+<link rel="stylesheet" href="mainData/assets/style.css">
+<link rel="stylesheet" href="mainData/assets/style_menu.css">
 </head>
 <body>
         <!-- Google Tag Manager (noscript) -->
@@ -84,7 +84,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!-- end info for client -->
             <div class="navbar-header">
               <!-- Logo Starts -->
-              <a class="navbar-brand" href="../index.php"><img class="img_logo" src="img/logo.png" alt="logo"></a>
+              <a class="navbar-brand" href="../index.php"><img class="img_logo" src="mainData/img/logo.png" alt="logo"></a>
               <!-- #Logo Ends -->
 
 <!-- Block menu which work with menu on the  mobile version -->
@@ -102,7 +102,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!-- Nav Starts -->
             <div class="navbar-collapse  collapse">
               <div class="nav navbar-nav navbar-right scroll cz_lin_nav">
-                <div class="cz_lin_navig_pages"> <a href="../index.php"> Головна</a></div>
+                <div class="cz_lin_navig_pages"> <a href="./index.php"> Головна</a></div>
                 <div class="cz_lin_polygu" id="cz_lin_poslygu">Прибирання
                   <div class="cz_lin_poslygu_menu" id="cz_lin_poslygu_menu">
                     <div> <a href="cleaning-after-build.php">Прибирання після ремонту</a></div>
@@ -153,12 +153,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <!-- End Czusta Linia Partneru -->
 
+
+<!-- Social Icon -->
 <div id="cz_linia_social_icon" class="cz_linia_social_icon">
+<div class="cz_linia_call_me"><img src="mainData/img/icon_social_72dpi_71x71_png/phone.png" alt="Чиста лінія передзвоніть мені">
+        </div>
   <a href="viber://chat?number=%2B380673701477"><img src="mainData/img/icon_social_72dpi_71x71_png/viber.png" alt="Чиста лінія вайбер"> </a>
-  <a href="https://www.instagram.com/czysta.linia/?r=nametag"><img src="mainData/img/icon_social_72dpi_71x71_png/instagram.png" alt="Чиста лінія інстаграм"> </a>
+  <a href="https://www.instagram.com/czysta.linia/?r=nametag"><img src="mainData/img/icon_social_72dpi_71x71_png/instargam.png" alt="Чиста лінія інстаграм"> </a>
   <a href="https://t.me/czystalinia"><img src="mainData/img/icon_social_72dpi_71x71_png/telegram.png" alt="Чиста лінія телеграм"></a>
   <a href="https://www.messenger.com/t/chystalinia"><img src="mainData/img/icon_social_72dpi_71x71_png/messenger.png" alt="Чиста лінія месенжер"> </a>
 </div>
+
+<!-- end Social Icon -->
 
 <!-- Cirlce Starts -->
 <div id="about"  class="container spacer about">
@@ -166,19 +172,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <h3 class="text-center wowload fadeInUp">Секрет чистої оселі</h3>
     <ul class="row text-center list-inline  wowload bounceInUp">
          <li>
-              <span><img src="img/logo 01.png" alt=""><b>Чисто</b></span>
+              <span><img src="mainData/img/logo 01.png" alt=""><b>Чисто</b></span>
           </li>
           <li>
-              <span><img src="img/logo 02.png" alt=""><b>Всі види клінінгу</b></span>
+              <span><img src="mainData/img/logo 02.png" alt=""><b>Всі види клінінгу</b></span>
           </li>
           <li>
-              <span><img src="img/logo 03.png" alt=""><b>Без передоплати</b></span>
+              <span><img src="mainData/img/logo 03.png" alt=""><b>Без передоплати</b></span>
           </li>
           <li>
-              <span><img src="img/logo 04.png" alt=""><b>Вчасно</b></span>
+              <span><img src="mainData/img/logo 04.png" alt=""><b>Вчасно</b></span>
           </li>        
           <li>
-              <span><img src="img/logo 05.png" alt=""><b>Еко засоби</b></span>
+              <span><img src="mainData/img/logo 05.png" alt=""><b>Еко засоби</b></span>
           </li>
       </ul>
     </div>
@@ -189,75 +195,75 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!-- works -->
   <div id="works"  class=" clearfix grid"> 
       <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/bath 2.jpg" alt="Ванна кімната,санвузол"/>
+          <img src="mainData/img/portfolio/bath 2.jpg" alt="Ванна кімната,санвузол"/>
           <figcaption>
               <h2>Ванна</h2>
               <!-- <p>Lily likes to play with crayons and pencils<br> -->
-              <p><a href="img/portfolio/bath 2.jpg" title="Ванна кімната,санвузол" data-gallery>детальніше</a></p>            
+              <p><a href="mainData/img/portfolio/bath 2.jpg" title="Ванна кімната,санвузол" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/cafe.jpg" alt="Кавярня,піцерія,ресторан"/>
+          <img src="mainData/img/portfolio/cafe.jpg" alt="Кавярня,піцерія,ресторан"/>
           <figcaption>
               <h2>Кафе</h2>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/portfolio/cafe.jpg" title="Кавярня,піцерія,ресторан" data-gallery>детальніше</a></p>            
+              <a href="mainData/img/portfolio/cafe.jpg" title="Кавярня,піцерія,ресторан" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/big window1.jpg" alt="Вікна великих розмірів"/>
+          <img src="mainData/img/portfolio/big window1.jpg" alt="Вікна великих розмірів"/>
           <figcaption>
               <h2>Вікно</h2>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/portfolio/big window1.jpg" title="Вікна великих розмірів" data-gallery>детальніше</a></p>            
+              <a href="mainData/img/portfolio/big window1.jpg" title="Вікна великих розмірів" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/door glass 1.jpg" alt="Зовнішні двері"/>
+          <img src="mainData/img/portfolio/door glass 1.jpg" alt="Зовнішні двері"/>
           <figcaption>
               <h2>Двері</h2>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/portfolio/door glass 1.jpg" title="Зовнішні двері" data-gallery>детальніше</a></p>            
+              <a href="mainData/img/portfolio/door glass 1.jpg" title="Зовнішні двері" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/glass 2.jpg" alt="дзеркала"/>
+          <img src="mainData/img/portfolio/glass 2.jpg" alt="дзеркала"/>
           <figcaption>
               <h2>Дзеркало</h2>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/portfolio/glass 2.jpg" title="дзеркала" data-gallery>детальніше</a></p>            
+              <a href="mainData/img/portfolio/glass 2.jpg" title="дзеркала" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
        
        <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/kitchen 2.jpg" alt="Кухня"/>
+          <img src="mainData/img/portfolio/kitchen 2.jpg" alt="Кухня"/>
           <figcaption>
               <h2>Кухня</h2>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/portfolio/kitchen 2.jpg" title="Кухня" data-gallery>детальніше</a></p>            
+              <a href="mainData/img/portfolio/kitchen 2.jpg" title="Кухня" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
       <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/trading room.jpg" alt="Магазин,торгівельний зал,show room,склад"/>
+          <img src="mainData/img/portfolio/trading room.jpg" alt="Магазин,торгівельний зал,show room,склад"/>
           <figcaption>
               <h2>Склад</h2>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/portfolio/trading room.jpg" title="Магазин,торгівельний зал,show room,склад" data-gallery>детальніше</a></p>            
+              <a href="mainData/img/portfolio/trading room.jpg" title="Магазин,торгівельний зал,show room,склад" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
       <figure class="effect-oscar  wowload fadeInUp">
-          <img src="img/portfolio/stairs3.jpg" alt="Сходи,перила"/>
+          <img src="mainData/img/portfolio/stairs3.jpg" alt="Сходи,перила"/>
           <figcaption>
               <h2>Сходи</h2>
               <p>
                 <!-- Lily likes to play with crayons and pencils<br> -->
-              <a href="img/portfolio/stairs3.jpg" title="Сходи,перила" data-gallery>детальніше</a></p>            
+              <a href="mainData/img/portfolio/stairs3.jpg" title="Сходи,перила" data-gallery>детальніше</a></p>            
           </figcaption>
       </figure>
   
@@ -290,25 +296,35 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <!-- jquery -->
-<script src="assets/jquery.js"></script>
+<script src="mainData/assets/jquery.js"></script>
 
 <!-- wow script -->
-<script src="assets/wow/wow.min.js"></script>
+<script src="mainData/assets/wow/wow.min.js"></script>
 
 
 <!-- boostrap -->
-<script src="assets/bootstrap/js/bootstrap.js" type="text/javascript" ></script>
+<script src="mainData/assets/bootstrap/js/bootstrap.js" type="text/javascript" ></script>
 
 <!-- jquery mobile -->
-<script src="assets/mobile/touchSwipe.min.js"></script>
-<script src="assets/respond/respond.js"></script>
+<script src="mainData/assets/mobile/touchSwipe.min.js"></script>
+<script src="mainData/assets/respond/respond.js"></script>
 
 <!-- gallery -->
-<script src="assets/gallery/jquery.blueimp-gallery.min.js"></script>
+<script src="mainData/assets/gallery/jquery.blueimp-gallery.min.js"></script>
 
 <!-- custom script -->
-<script src="assets/script.js"></script>
-<script src="assets/script_menu.js"></script>
+<script src="mainData/assets/script.js"></script>
+<script src="mainData/assets/script_menu.js"></script>
+
+<!-- emailJS -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.3.2/dist/email.min.js"></script>
+    <script type="text/javascript">
+      (function(){
+          emailjs.init("user_0sk1WQsiBBRpCg7ZBYZl0");
+      })();
+    </script>
+<!-- end emailJs -->
+<script src="mainData/assets/callMe.js"></script>
 
 </body>
 </html>
